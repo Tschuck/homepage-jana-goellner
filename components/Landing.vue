@@ -13,7 +13,7 @@
     <h1 class="mt-8 text-5xl">{{ $t("landing.title") }}</h1>
     <h2 class="text-2xl italic text-wm-primary">{{ $t("landing.sub-title") }}</h2>
 
-    <div class="flex flex-row justify-center mt-4 xitems-center">
+    <div class="flex flex-row items-center justify-center mt-4">
       <a :href="`tel:${$t('landing.phone-value')}`" class="mr-5">
         <font-awesome-icon class="mr-1" :icon="['fa', 'phone']" />
         <span>{{ $t("landing.phone-value") }}</span>
@@ -22,6 +22,14 @@
         <font-awesome-icon class="mr-1" :icon="['fa', 'envelope']" />
         <span>{{ $t("landing.email-value") }}</span>
       </a>
+    </div>
+
+    <div class="flex flex-row items-center justify-center mt-4 text-xs italic text-wm-primary">
+      {{ $t('landing.sub-1') }}
+    </div>
+
+    <div class="flex flex-row items-center justify-center text-xs italic text-wm-primary">
+      {{ $t('landing.sub-2') }}
     </div>
   </div>
 </template>
