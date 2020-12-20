@@ -10,10 +10,10 @@
         style="width: 400px; max-width: 100%"
       />
     </div>
-    <h1 class="mt-5 text-5xl">{{ $t("landing.title") }}</h1>
-    <h2 class="text-3xl italic text-wm-primary">{{ $t("landing.sub-title") }}</h2>
+    <h1 class="mt-8 text-5xl">{{ $t("landing.title") }}</h1>
+    <h2 class="text-2xl italic text-wm-primary">{{ $t("landing.sub-title") }}</h2>
 
-    <div class="flex flex-row mt-5">
+    <div class="flex flex-row mt-8">
       <a :href="`tel:${$t('landing.phone-value')}`" class="mr-5">
         <font-awesome-icon class="mr-1" :icon="['fa', 'phone']" />
         <span>{{ $t("landing.phone-value") }}</span>

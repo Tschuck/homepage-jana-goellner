@@ -10,7 +10,7 @@
 <script>
 
 export const iconProps = {
-  color: { type: String, default: '#2d3748' },
+  color: { type: String, default: 'var(--mw-primary)' },
   width: { type: String, default: '100%' },
   height: { type: String, default: 'auto' },
 };

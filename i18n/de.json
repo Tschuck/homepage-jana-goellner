@@ -14,6 +14,16 @@
     "desc": "Magna incididunt est in cillum tempor nulla ipsum cupidatat nisi laboris excepteur laborum. Labore nulla ipsum culpa Lorem enim excepteur commodo proident sit ex magna ea nisi tempor. Magna officia officia incididunt cupidatat eu."
   },
   "about-me": {
-    "title": "Über mich"
+    "title": "Über mich",
+    "desc": "Do est excepteur ad aliqua laborum aliquip. Quis culpa incididunt enim aliquip aliqua nisi consequat aliquip quis duis et exercitation nisi veniam. Qui veniam ex minim officia et quis deserunt.",
+    "education": "Ausbildung",
+    "education-desc": "Exercitation dolore in minim aute officia cillum elit fugiat aliquip culpa pariatur ullamco. Ut eu non non ad mollit exercitation reprehenderit ut deserunt incididunt Lorem consequat enim. Consequat sit elit exercitation Lorem sit eu cillum dolor tempor ut magna eu.",
+    "region": "Region",
+    "region-desc": "Ich selbst komme aus Wutha-Farnroda und bin gerne für Familien in den folgenden Gegenden da",
+    "region-list": "Wutha, Eisenach, ..."
+  },
+  "acupuncture": {
+    "title": "Akkupunktur",
+    "desc": "Et cillum nisi magna nulla laboris ipsum. Enim nisi sunt irure nisi cupidatat sit eiusmod reprehenderit. Commodo magna minim aliquip aute minim non sit ex laboris. Eu aliquip consectetur proident voluptate cillum ea veniam elit. Proident proident fugiat Lorem nulla tempor id anim veniam. Magna cupidatat officia laboris magna ullamco labore. Ea ullamco quis nulla aliqua sunt laborum aliqua aute."
   }
 }
