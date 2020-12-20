@@ -1,6 +1,9 @@
 const translations = require('./i18n/index.js');
 
 module.exports = {
+  env: {
+    baseUrl: './',
+  },
   buildModules: [
     '@nuxtjs/tailwindcss',
     'nuxt-i18n',

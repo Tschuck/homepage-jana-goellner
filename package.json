@@ -6,7 +6,8 @@
     "build": "nuxt build",
     "generate": "nuxt generate",
     "start": "nuxt start",
-    "dev": "nuxt"
+    "serve": "nuxt",
+    "deploy": "yarn generate && git add --all && git commit -m \"update dist\" && git subtree push --prefix dist origin gh-pages"
   },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
