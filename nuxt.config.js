@@ -1,8 +1,8 @@
 const translations = require('./i18n/index.js');
 
 module.exports = {
-  env: {
-    baseUrl: './',
+  generate: {
+    subFolders: false // HTML files are generated according to the route path
   },
   buildModules: [
     '@nuxtjs/tailwindcss',
