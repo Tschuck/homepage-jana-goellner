@@ -44,8 +44,7 @@ export default {
 }
 
 .midwife-root {
-  /* background-image: linear-gradient(to bottom left,#fff5f7, #fed7e2); */
-  background: #ffdcdc;
+  background-color: #ffdcdc;
 }
 
 .vh-100 {
