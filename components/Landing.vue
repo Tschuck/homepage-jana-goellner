@@ -13,7 +13,7 @@
     <h1 class="mt-8 text-5xl">{{ $t("landing.title") }}</h1>
     <h2 class="text-2xl italic text-wm-primary">{{ $t("landing.sub-title") }}</h2>
 
-    <div class="flex flex-row mt-8">
+    <div class="flex flex-row justify-center mt-4 xitems-center">
       <a :href="`tel:${$t('landing.phone-value')}`" class="mr-5">
         <font-awesome-icon class="mr-1" :icon="['fa', 'phone']" />
         <span>{{ $t("landing.phone-value") }}</span>
