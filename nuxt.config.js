@@ -1,7 +1,11 @@
 const translations = require('./i18n/index.js');
 
 module.exports = {
-  buildModules: ['@nuxtjs/tailwindcss', 'nuxt-i18n'],
+  buildModules: [
+    '@nuxtjs/tailwindcss',
+    'nuxt-i18n',
+    '@nuxtjs/fontawesome',
+  ],
   // Defaults options
   tailwindcss: {
     cssPath: '~/assets/css/tailwind.css',
@@ -16,6 +20,11 @@ module.exports = {
       fallbackLocale: 'de',
       messages: translations,
     }
+  },
+  fontawesome: {
+    icons: {
+      solid: ['faPhone', 'faEnvelope'],
+    },
   },
   components: true
 };

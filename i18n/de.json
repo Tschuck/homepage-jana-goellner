@@ -1,5 +1,19 @@
 {
-  "start-page": {
-    "title": "Hebamme Eisenach"
+  "landing": {
+    "title": "Hebamme",
+    "sub-title": "Jana Göllner",
+    "phone-value": "01234567",
+    "email-value": "test@test.de"
+  },
+  "after-care": {
+    "title": "Nachsorge",
+    "desc": "Reprehenderit proident anim proident sint ut esse aliqua. Eiusmod mollit anim sint exercitation reprehenderit. Aliqua labore sunt culpa esse. Sit amet cillum dolor eu. Amet aliqua voluptate eu elit proident eu elit."
+  },
+  "pre-care": {
+    "title": "Vorsorge",
+    "desc": "Magna incididunt est in cillum tempor nulla ipsum cupidatat nisi laboris excepteur laborum. Labore nulla ipsum culpa Lorem enim excepteur commodo proident sit ex magna ea nisi tempor. Magna officia officia incididunt cupidatat eu."
+  },
+  "about-me": {
+    "title": "Über mich"
   }
 }

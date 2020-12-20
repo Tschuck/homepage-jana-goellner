@@ -1,9 +1,12 @@
 <template>
-  <BaseIcon v-bind="$props">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1300 900"
+    :style="`height: ${height}; width: ${width}; margin: auto;`"
+  >
     <g
       transform="translate(0.000000,1000.000000) scale(0.100000,-0.100000)"
       :fill="color"
-      stroke="none"
     >
       <path
         d="M7315 7559 c-679 -37 -1270 -190 -2010 -522 -380 -170 -568 -241
@@ -53,7 +56,7 @@
 -187 129 -425 344 -599 542 -32 36 -53 55 -47 42z"
       />
     </g>
-  </BaseIcon>
+  </svg>
 </template>
 <script>
 const { iconProps } = require('./BaseIcon.vue');
