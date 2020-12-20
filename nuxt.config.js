@@ -4,6 +4,9 @@ module.exports = {
   generate: {
     subFolders: false // HTML files are generated according to the route path
   },
+  router: {
+    base: '/hebamme-eisenach/'
+  },
   buildModules: [
     '@nuxtjs/tailwindcss',
     'nuxt-i18n',
