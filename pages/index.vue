@@ -47,7 +47,7 @@ body {
 }
 
 .midwife-root {
-  background-color: #ffdcdc;
+  background-color: #fef4f7;
 }
 
 .vh-100 {
