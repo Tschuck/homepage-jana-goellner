@@ -11,8 +11,8 @@
           style="width: 150px; max-width: 100%"
         />
       </div>
-      <h1 class="mt-3 text-3xl">{{ $t("side-panel.title") }}</h1>
-      <h2 class="text-2xl italic text-wm-primary">{{ $t("side-panel.sub-title") }}</h2>
+      <h1 class="mt-3 text-5xl text-accent">{{ $t("side-panel.title") }}</h1>
+      <h2 class="text-2xl text-wm-primary">{{ $t("side-panel.sub-title") }}</h2>
 
       <div class="w-full px-8 py-4 mt-4 border-t border-b">
         <a class="block mb-4" :href="`tel:${$t('side-panel.phone-value')}`">

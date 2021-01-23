@@ -35,7 +35,7 @@ export default {
     &:hover {
       @apply border-gray-300;
 
-      background-color: var(--mw-bg-gray);
+      background-color: var(--mw-bg-light);
     }
 
     &.active {

@@ -4,7 +4,7 @@
 
     <div
       class="col-span-3 overflow-y-auto vh-100"
-      style="background-color: var(--mw-bg-gray)"
+      style="background-color: var(--mw-bg-light)"
     >
       <Welcome />
       <Services />
@@ -29,9 +29,16 @@ export default {};
 
 
 <style lang="postcss">
+@font-face {
+  font-family: FontAccent;
+  src: url(../fonts/Cookie-Regular.ttf);
+}
+
 :root {
-  --mw-primary: #a94e68;
-  --mw-bg-gray: rgb(245, 245, 245);
+  /* --mw-primary: #8e4c6f; */
+  --mw-primary: #ec7f86;
+  --mw-primary-text: #51b7b6;
+  --mw-bg-light: #dff0ef;
 }
 
 body {
@@ -40,6 +47,10 @@ body {
 
 .text-wm-primary {
   color: var(--mw-primary);
+}
+
+.text-accent {
+  font-family: 'FontAccent', cursive;
 }
 
 .bg-primary {
@@ -55,6 +66,11 @@ body {
 
 .vh-100 {
   height: 100vh;
+}
+
+.container-readable {
+  width: 600px;
+  max-width: 100%;
 }
 
 .card {

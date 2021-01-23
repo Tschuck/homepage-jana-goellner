@@ -8,13 +8,9 @@
     "region-list": "Wutha, Eisenach, ...",
     "title": "Über mich"
   },
-  "acupuncture": {
-    "desc": "Et cillum nisi magna nulla laboris ipsum. Enim nisi sunt irure nisi cupidatat sit eiusmod reprehenderit. Commodo magna minim aliquip aute minim non sit ex laboris. Eu aliquip consectetur proident voluptate cillum ea veniam elit. Proident proident fugiat Lorem nulla tempor id anim veniam. Magna cupidatat officia laboris magna ullamco labore. Ea ullamco quis nulla aliqua sunt laborum aliqua aute.",
-    "title": "Akkupunktur"
-  },
   "after-care": {
     "desc": "Reprehenderit proident anim proident sint ut esse aliqua. Eiusmod mollit anim sint exercitation reprehenderit. Aliqua labore sunt culpa esse. Sit amet cillum dolor eu. Amet aliqua voluptate eu elit proident eu elit.",
-    "title": "Nachsorge"
+    "title": "Betreuung nach der Geburt"
   },
   "impressum": {
     "title": "Impressum"
@@ -22,18 +18,20 @@
   "navigation": {
     "start-page": "Willkommen"
   },
+  "others": {
+    "desc": "Et cillum nisi magna nulla laboris ipsum. Enim nisi sunt irure nisi cupidatat sit eiusmod reprehenderit. Commodo magna minim aliquip aute minim non sit ex laboris. Eu aliquip consectetur proident voluptate cillum ea veniam elit. Proident proident fugiat Lorem nulla tempor id anim veniam. Magna cupidatat officia laboris magna ullamco labore. Ea ullamco quis nulla aliqua sunt laborum aliqua aute.",
+    "title": "Weitere Leistungen"
+  },
   "pre-care": {
     "desc": "Magna incididunt est in cillum tempor nulla ipsum cupidatat nisi laboris excepteur laborum. Labore nulla ipsum culpa Lorem enim excepteur commodo proident sit ex magna ea nisi tempor. Magna officia officia incididunt cupidatat eu.",
-    "title": "Vorsorge"
+    "title": "Betreuung in der Schwangerschaft"
   },
   "services": {
     "title": "Leistungen"
   },
   "side-panel": {
-    "email-value": "test@test.de",
-    "phone-value": "+49 162 7349111",
-    "sub-1": "Vorsorge, Nachsorge, Akkupunktur",
-    "sub-2": "Eisenach, Creuzburg, Treffurt, Ruhla und Umgebung",
+    "email-value": "jana-goellner@web.de",
+    "phone-value": "0160 95332264",
     "sub-title": "Jana Göllner",
     "title": "Hebamme"
   },
