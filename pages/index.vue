@@ -1,17 +1,17 @@
 <template>
-  <div class="w-full text-gray-800 vh-100 midwife-root">
-    <div class="overflow-y-auto vh-100">
-      <Landing />
+  <div class="flex grid w-full grid-cols-4 text-gray-800 vh-100 midwife-root">
+    <SidePanel class="col-span-1" />
 
-      <AboutMe />
+    <div class="col-span-3 overflow-y-auto vh-100" style="background-color: var(--mw-bg-gray)">
+      <Welcome />
 
-      <div class="flex flex-col items-center justify-center overflow-x-auto md:items-start md:flex-row">
-        <Category i18nScope="pre-care">
+      <div class="flex flex-col items-center justify-center">
+        <Category i18nScope="pre-care" class="mb-8">
           <template v-slot:icon-slot>
             <PreCare width="auto" height="200px" />
           </template>
         </Category>
-        <Category i18nScope="after-care">
+        <Category i18nScope="after-care" class="mb-8">>
           <template v-slot:icon-slot>
             <AfterCare width="auto" height="200px" />
           </template>
@@ -36,6 +36,7 @@ export default { }
 <style lang="postcss">
 :root {
   --mw-primary: #a94e68;
+  --mw-bg-gray: rgb(245, 245, 245);
 }
 
 body {
@@ -46,12 +47,30 @@ body {
   color: var(--mw-primary);
 }
 
+.bg-primary {
+  @apply text-gray-300;
+
+  background-color: var(--mw-primary);
+}
+
 .midwife-root {
-  background-color: #fef4f7;
+  /* background-color: #fef4f7; */
+  background-color: #fff;
 }
 
 .vh-100 {
   height: 100vh;
+}
+
+.card {
+  @apply border;
+
+  width: 600px;
+  max-width: 100%;
+
+  &.bg-white {
+    @apply text-gray-700;
+  }
 }
 
 @media (max-width: 756px) {

@@ -20,7 +20,7 @@ module.exports = {
     config: {},
   },
   i18n: {
-    locales: ['de', 'en'],
+    locales: ['de'],
     defaultLocale: 'de',
     vueI18n: {
       fallbackLocale: 'de',

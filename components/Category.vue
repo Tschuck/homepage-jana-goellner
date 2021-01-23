@@ -1,5 +1,5 @@
 <template>
-  <div class="p-3 mt-24 text-justify md:p-10 md:mt-0 " style="width: 500px; max-width: 100%;">
+  <div class="p-3 mt-24 text-justify bg-white md:p-10 md:mt-0 card">
     <div class="mb-8">
       <slot name="icon-slot" />
     </div>
