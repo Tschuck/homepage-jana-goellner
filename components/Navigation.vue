@@ -25,7 +25,7 @@ export default {
 
 <style lang="postcss">
   .nav-panel {
-    @apply mt-16 w-full;
+    @apply w-full;
   }
   .nav {
     @apply p-4 w-full cursor-pointer pl-4;
