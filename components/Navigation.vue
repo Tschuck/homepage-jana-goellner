@@ -10,6 +10,9 @@
       {{ $t('about-me.title') }}
     </div>
     <div class="nav">
+      {{ $t('contact.title') }}
+    </div>
+    <div class="nav">
       {{ $t('impressum.title') }}
     </div>
   </div>

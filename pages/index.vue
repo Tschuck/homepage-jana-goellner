@@ -30,8 +30,14 @@ export default {};
 
 <style lang="postcss">
 @font-face {
-  font-family: FontAccent;
+  font-family: FontCursive;
   src: url(../fonts/Cookie-Regular.ttf);
+}
+
+
+@font-face {
+  font-family: FontStraigth;
+  src: url(../fonts/PoiretOne-Regular.ttf);
 }
 
 :root {
@@ -49,8 +55,16 @@ body {
   color: var(--mw-primary);
 }
 
-.text-accent {
-  font-family: 'FontAccent', cursive;
+.text-wm-secondary {
+  color: var(--mw-primary-text);
+}
+
+.font-cursive {
+  font-family: 'FontCursive', cursive;
+}
+
+.font-straight {
+  font-family: 'FontStraigth', cursive;
 }
 
 .bg-primary {

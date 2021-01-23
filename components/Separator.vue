@@ -3,7 +3,7 @@
     class="relative flex flex-col items-center justify-center w-full mb-16 overflow-hidden"
     :id="separatorId"
   >
-    <h2 class="z-10 px-8 text-6xl text-accent" style="background-color: var(--mw-bg-light)">
+    <h2 class="z-10 px-8 text-6xl font-cursive" style="background-color: var(--mw-bg-light)">
       {{ title }}
     </h2>
 
