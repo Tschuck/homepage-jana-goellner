@@ -1,13 +1,17 @@
 <template>
-  <div class="flex grid w-full grid-cols-4 text-gray-800 vh-100 midwife-root">
+  <div class="w-full grid-cols-4 text-gray-800 md:grid vh-100 midwife-root">
     <SidePanel class="col-span-1" />
 
     <div
-      class="col-span-3 overflow-y-auto vh-100"
+      class="col-span-3"
+      id="content-scroll"
       style="background-color: var(--mw-bg-light)"
     >
       <Welcome />
       <Services />
+      <AboutMe />
+      <Contact />
+      <Impressum />
 
       <div class="p-3 mt-32 text-xs italic text-center bg-gray">
         Icons made by
@@ -44,11 +48,26 @@ export default {};
   /* --mw-primary: #8e4c6f; */
   --mw-primary: #ec7f86;
   --mw-primary-text: #51b7b6;
-  --mw-bg-light: #dff0ef;
+  /* --mw-bg-light: #dff0ef; */
+  --mw-bg-light: #f5fafa;
 }
 
 body {
   height: 100vh;
+}
+
+#content-scroll {
+  @apply p-1 overflow-y-auto;
+
+  @media (min-width: 768px) {
+    height: 100vh;
+  }
+
+  @media (max-width: 767px) {
+    @apply py-4;
+
+    height: calc(100vh - 100px);
+  }
 }
 
 .text-wm-primary {

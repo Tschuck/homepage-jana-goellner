@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col items-center justify-center">
-    <Separator separatorId="services" :title="$t('services.title')" />
+    <Separator separatorId="services" />
 
     <Category i18nScope="pre-care" class="mb-16">
       <template v-slot:icon-slot>

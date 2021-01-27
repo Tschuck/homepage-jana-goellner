@@ -4,7 +4,7 @@
     :id="separatorId"
   >
     <h2 class="z-10 px-8 text-6xl font-cursive" style="background-color: var(--mw-bg-light)">
-      {{ title }}
+      {{ $t(`${separatorId}.title`) }}
     </h2>
 
     <div class="separator-line" />
@@ -14,7 +14,6 @@
 <script>
 export default {
   props: {
-    title: { type: String },
     separatorId: { type: String },
   },
 };

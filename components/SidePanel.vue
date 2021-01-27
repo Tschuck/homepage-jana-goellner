@@ -1,14 +1,12 @@
 <template>
-  <div class="border-r shadow-lg vh-100">
-    <div class="flex flex-col items-center justify-start p-8">
+  <div id="sidepanel">
+    <div class="contact-preview">
       <div
-        class="flex items-center justify-center p-2 overflow-hidden bg-pink-100 rounded-full"
-        style="border: 5px solid var(--mw-primary)"
+        class="img-wrapper"
       >
         <img
           src="~/assets/img/sample.png"
-          class="rounded-full"
-          style="width: 150px; max-width: 100%"
+          class="rounded-full user-profile"
         />
       </div>
       <h1 class="mt-3 text-5xl font-cursive text-wm-secondary">{{ $t("side-panel.title") }}</h1>
@@ -35,4 +33,35 @@ export default {};
 </script>
 
 <style lang="postcss">
+#sidepanel {
+  @apply border-r shadow-lg;
+}
+
+@media (min-width: 768px) {
+  .contact-preview {
+    @apply flex flex-col items-center justify-start p-8;
+  }
+
+  .image-wrapper {
+    @apply flex items-center justify-center p-2 overflow-hidden rounded-full;
+
+    border: 5px solid var(--mw-primary);
+  }
+
+  img.user-profile {
+    width: 150px;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .contact-preview {
+    height: 50px;
+    overflow: hidden;
+  }
+
+  img.user-profile {
+    width: 50px;
+  }
+}
 </style>
