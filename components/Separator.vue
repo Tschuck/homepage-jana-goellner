@@ -1,6 +1,6 @@
 <template>
   <div
-    class="relative flex flex-col items-center justify-center w-full mb-16 overflow-hidden"
+    class="relative flex flex-col items-center justify-center w-full my-4 overflow-hidden md:my-16"
     :id="separatorId"
   >
     <h2 class="z-10 px-8 text-6xl font-cursive" style="background-color: var(--mw-bg-light)">
@@ -25,5 +25,9 @@ export default {
   height: 5px;
   width: 80%;
   background-color: var(--mw-primary);
+
+  @media (max-width: 767px) {
+    width: 99%;
+  }
 }
 </style>

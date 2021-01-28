@@ -1,8 +1,8 @@
 <template>
-  <div class="flex flex-col items-center justify-center mb-24">
+  <div class="page">
     <Separator separatorId="about-me" />
 
-    <div class="p-8 text-gray-200" style="width: 500px; max-width: 100%; background-color: var(--mw-primary)">
+    <div class="card">
       <p>{{ $t("about-me.desc") }}</p>
       <h2 class="mt-8 font-bold">{{ $t("about-me.education") }}</h2>
       <p>{{ $t("about-me.education-desc") }}</p>

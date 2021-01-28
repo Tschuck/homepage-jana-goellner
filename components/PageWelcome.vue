@@ -1,10 +1,10 @@
 <template>
-  <div class="flex flex-col items-center justify-center mb-24 vh-100">
-    <Logo width="auto" height="300px" />
+  <div class="justify-start page ">
+    <Logo class="mt-4 md:mt-16" width="30%" height="auto" style="max-width: 300px" />
 
     <Separator separatorId="welcome"/>
 
-    <div class="p-8 bg-white card">
+    <div class="bg-white card">
       <p class="text-justify" v-html="$t('welcome.text')" />
     </div>
   </div>

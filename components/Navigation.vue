@@ -2,14 +2,17 @@
   <div class="nav-panel">
     <div
       class="nav"
-      v-for="id in nav"
-      :key="id"
-      @click="scrollToId(id)"
+      v-for="nav in navList"
+      :key="nav.id"
+      @click="scrollToId(nav.id)"
       :class="{
-        active: activeNav === id,
+        active: activeNav === nav.id,
       }"
     >
-      {{ $t(`${id}.title`) }}
+      <div class="flex items-center justify-center w-12">
+        <font-awesome-icon :icon="nav.icon" />
+      </div>
+      <span>{{ $t(`${nav.id}.title`) }}</span>
     </div>
   </div>
 </template>
@@ -20,42 +23,48 @@ export default {
     i18nScope: { type: String },
   },
   data: () => {
-    const nav = ["welcome", "services", "about-me", "contact", "impressum"];
-    const activeNav = nav[0];
+    const navList = [
+      { id: 'welcome', icon: ['fa', 'home'] },
+      { id: 'services', icon: ['fa', 'handshake'] },
+      { id: 'about-me', icon: ['fa', 'user'] },
+      { id: 'contact', icon: ['fa', 'phone'] },
+      { id: 'impressum', icon: ['fa', 'sticky-note'] },
+    ];
+    const activeNav = navList[0].id;
 
     return {
       activeNav,
-      nav,
+      navList,
     };
   },
   beforeMount() {
-    this.scrollEl = document.getElementById("content-scroll");
+    this.scrollEl = document.getElementById('content-scroll');
 
     this.onScroll = () => {
       const rectStart = this.scrollEl.scrollTop;
       const rectEnd = this.scrollEl.scrollTop + window.innerHeight;
 
-      for (let i = 0; i < this.nav.length; i += 1) {
-        const el = document.getElementById(this.nav[i]);
+      for (let i = 0; i < this.navList.length; i += 1) {
+        const el = document.getElementById(this.navList[i].id);
         const elStart = el.offsetTop + el.offsetHeight;
         if (rectStart < elStart && rectEnd > elStart) {
-          this.activeNav = this.nav[i];
+          this.activeNav = this.navList[i].id;
           return;
         }
       }
     };
 
-    this.scrollEl.addEventListener("scroll", this.onScroll.bind(this));
+    this.scrollEl.addEventListener('scroll', this.onScroll.bind(this));
     this.onScroll();
   },
   beforeDestroy() {
-    this.scrollEl.removeEventListener("scroll", this.onScroll);
+    this.scrollEl.removeEventListener('scroll', this.onScroll);
   },
   methods: {
     scrollToId(id) {
       this.scrollEl.scrollTo({
         top: document.getElementById(id).offsetTop,
-        behavior: "smooth",
+        behavior: 'smooth',
       });
     },
   },
@@ -68,15 +77,15 @@ export default {
 }
 
 .nav {
-  @apply p-4 w-full cursor-pointer pl-4;
+  transition: 0.3s ease-out border;
+}
 
-  border-right: 8px solid transparent;
+.nav svg {
+  transition: 0.3s ease-out color;
+}
 
-  &:hover {
-    @apply border-gray-300;
-
-    background-color: var(--mw-bg-light);
-  }
+.nav {
+  @apply p-4 w-full cursor-pointer pl-4 flex;
 }
 
 @media (min-width: 768px) {
@@ -84,26 +93,47 @@ export default {
     &.active {
       border-right: 8px solid var(--mw-primary);
     }
+
+    &.active svg {
+      color: var(--mw-primary);
+    }
+
+    border-right: 8px solid transparent;
+
+    &:hover {
+      @apply border-gray-300;
+
+      background-color: var(--mw-bg-light);
+    }
   }
 }
 
 @media (max-width: 767px) {
   .nav-panel {
-    @apply flex flex-row border-t;
+    @apply flex flex-row border-t h-12;
 
     background-color: #fff;
     position: fixed;
     z-index: 20;
-    height: 50px;
     bottom: 0;
     left: 0;
   }
 
   .nav {
-    &.active {
-      background-color: var(--mw-primary);
-      color: #fff;
-    }
+    @apply flex items-center;
+  }
+
+  .nav > div {
+    width: 100%;
+  }
+
+  .nav span {
+    display: none;
+  }
+
+  .nav.active {
+    background-color: var(--mw-primary);
+    color: #fff;
   }
 }
 

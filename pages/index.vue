@@ -7,11 +7,11 @@
       id="content-scroll"
       style="background-color: var(--mw-bg-light)"
     >
-      <Welcome />
-      <Services />
-      <AboutMe />
-      <Contact />
-      <Impressum />
+      <PageWelcome />
+      <PageServices />
+      <PageAboutMe />
+      <PageContact />
+      <PageImpressum />
 
       <div class="p-3 mt-32 text-xs italic text-center bg-gray">
         Icons made by
@@ -57,16 +57,17 @@ body {
 }
 
 #content-scroll {
-  @apply p-1 overflow-y-auto;
+  @apply overflow-y-auto;
 
   @media (min-width: 768px) {
     height: 100vh;
   }
 
   @media (max-width: 767px) {
-    @apply py-4;
+    @apply p-4 fixed w-full;
 
-    height: calc(100vh - 100px);
+    top: 3rem;
+    height: calc(100vh - 6rem);
   }
 }
 
@@ -106,8 +107,14 @@ body {
   max-width: 100%;
 }
 
+.page {
+  @apply flex flex-col items-center justify-center;
+
+  min-height: 100vh;
+}
+
 .card {
-  @apply border;
+  @apply border mb-16 p-8 bg-white;
 
   width: 600px;
   max-width: 100%;
@@ -115,12 +122,9 @@ body {
   &.bg-white {
     @apply text-gray-700;
   }
-}
 
-@media (max-width: 756px) {
-  .vh-100 {
-    height: auto;
-    margin-bottom: 30px;
+  @media (max-width: 767px) {
+    @apply mb-4;
   }
 }
 </style>

@@ -1,7 +1,6 @@
 <template>
-  <div class="flex flex-col items-center justify-center mb-24">
+  <div class="page">
     <Separator separatorId="impressum" />
-
   </div>
 </template>
 

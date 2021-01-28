@@ -29,7 +29,14 @@ module.exports = {
   },
   fontawesome: {
     icons: {
-      solid: ['faPhone', 'faEnvelope'],
+      solid: [
+        'faPhone',
+        'faEnvelope',
+        'faHandshake',
+        'faHome',
+        'faUser',
+        'faStickyNote',
+      ],
     },
   },
   head: {
