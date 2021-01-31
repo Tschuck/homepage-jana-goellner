@@ -1,14 +1,4 @@
 {
-  "name": "hebamme-eisenach",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "build": "nuxt build",
-    "generate": "nuxt generate",
-    "start": "nuxt start",
-    "serve": "nuxt",
-    "deploy": "yarn generate && git add --all && git commit -m \"update dist\" && git subtree push --prefix dist origin gh-pages"
-  },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
@@ -19,5 +9,15 @@
   },
   "devDependencies": {
     "@nuxtjs/fontawesome": "^1.1.2"
-  }
+  },
+  "name": "hebamme-jana-goellner",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "deploy": "yarn generate && git add --all && git commit -m \"update dist\" && git subtree push --prefix dist origin gh-pages",
+    "generate": "nuxt generate",
+    "serve": "nuxt",
+    "start": "nuxt start"
+  },
+  "version": "0.1.0"
 }

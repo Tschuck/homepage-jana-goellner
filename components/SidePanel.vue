@@ -1,6 +1,6 @@
 <template>
   <div class="border-r shadow-lg vh-100" id="sidepanel">
-    <div class="flex-col items-center justify-start hidden p-8 md:flex">
+    <div class="flex-col items-center justify-start hidden py-8 md:flex">
       <div
         class="flex items-center justify-center p-2 overflow-hidden rounded-full"
         style="border: 5px solid var(--mw-primary)"
@@ -14,14 +14,14 @@
       <h1 class="mt-3 text-5xl font-cursive text-wm-secondary">{{ $t("side-panel.title") }}</h1>
       <h2 class="text-2xl font-straight" style="margin-top: -10px;">{{ $t("side-panel.sub-title") }}</h2>
 
-      <div class="w-full px-8 py-4 mt-4 border-t border-b">
-        <a class="block mb-4" :href="`tel:${$t('side-panel.phone-value')}`">
+      <div class="w-full px-1 py-4 mt-4 border-t border-b md:px-4 lg:px-8">
+        <a class="block mb-4 truncate" :href="`tel:${$t('contact.phone-value')}`">
           <font-awesome-icon class="mr-1" :icon="['fa', 'phone']" />
-          <span class="ml-3">{{ $t("side-panel.phone-value") }}</span>
+          <span class="ml-3">{{ $t("contact.phone-value") }}</span>
         </a>
-        <a :href="`mailto:${$t('side-panel.email-value')}`">
+        <a class="truncate" :href="`mailto:${$t('contact.email-value')}`">
           <font-awesome-icon class="mr-1" :icon="['fa', 'envelope']" />
-          <span class="ml-3">{{ $t("side-panel.email-value") }}</span>
+          <span class="ml-3">{{ $t("contact.email-value") }}</span>
         </a>
       </div>
     </div>
@@ -34,7 +34,7 @@
           style="width: 40px; height: 40px"
         />
 
-        <h2 class="text-2xl font-straight">{{ $t("side-panel.title") }} {{ $t("side-panel.sub-title") }}</h2>
+        <h2 class="text-2xl truncate font-straight">{{ $t("side-panel.title") }} - {{ $t("side-panel.sub-title") }}</h2>
       </div>
 
       <div class="flex">

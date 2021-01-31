@@ -7,8 +7,7 @@
         <PreCare width="auto" height="200px" />
       </template>
     </IconCard>
-    <IconCard i18nScope="after-care" class="mb-16"
-      >>
+    <IconCard i18nScope="after-care" class="mb-16">
       <template v-slot:icon-slot>
         <AfterCare width="auto" height="200px" />
       </template>

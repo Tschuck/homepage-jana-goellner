@@ -12,7 +12,7 @@
       <div class="flex items-center justify-center w-12">
         <font-awesome-icon :icon="nav.icon" />
       </div>
-      <span>{{ $t(`${nav.id}.title`) }}</span>
+      <span class="md:ml-3">{{ $t(`${nav.id}.title`) }}</span>
     </div>
   </div>
 </template>
@@ -28,7 +28,7 @@ export default {
       { id: 'services', icon: ['fa', 'handshake'] },
       { id: 'about-me', icon: ['fa', 'user'] },
       { id: 'contact', icon: ['fa', 'phone'] },
-      { id: 'impressum', icon: ['fa', 'sticky-note'] },
+      { id: 'imprint', icon: ['fa', 'sticky-note'] },
     ];
     const activeNav = navList[0].id;
 
@@ -86,16 +86,20 @@ export default {
 
 .nav {
   @apply p-4 w-full cursor-pointer pl-4 flex;
+
+  svg {
+    font-size: 1.3rem;
+  }
+}
+
+.nav svg {
+  font-size: 1.3rem;
 }
 
 @media (min-width: 768px) {
   .nav {
     &.active {
       border-right: 8px solid var(--mw-primary);
-    }
-
-    &.active svg {
-      color: var(--mw-primary);
     }
 
     border-right: 8px solid transparent;

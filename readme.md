@@ -1,4 +1,4 @@
-# hebamme-eisenach
+# Hebamme - Jana Goellner
 
 Just a small web page for an midwife from the center of germany.
 
@@ -11,7 +11,7 @@ yarn install
 ## Generate static files
 
 ```sh
-yarn genere
+yarn generate
 ```
 
 ## Deploy to github pages

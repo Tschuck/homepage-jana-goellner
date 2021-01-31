@@ -5,7 +5,7 @@ module.exports = {
     subFolders: false // HTML files are generated according to the route path
   },
   router: {
-    base: '/hebamme-eisenach/'
+    base: '/hebamme-jana-goellner/'
   },
   buildModules: [
     '@nuxtjs/tailwindcss',
@@ -30,12 +30,13 @@ module.exports = {
   fontawesome: {
     icons: {
       solid: [
-        'faPhone',
         'faEnvelope',
         'faHandshake',
         'faHome',
-        'faUser',
+        'faMap',
+        'faPhone',
         'faStickyNote',
+        'faUser',
       ],
     },
   },
@@ -47,7 +48,7 @@ module.exports = {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: 'hebamme-eisenach/favicon.svg' }
+      { rel: 'icon', type: 'image/x-icon', href: 'hebamme-jana-goellner/favicon.svg' }
     ]
   },
   components: true

@@ -11,7 +11,7 @@
       <PageServices />
       <PageAboutMe />
       <PageContact />
-      <PageImpressum />
+      <PageImprint />
 
       <div class="p-3 mt-32 text-xs italic text-center bg-gray">
         Icons made by
@@ -47,7 +47,7 @@ export default {};
 :root {
   /* --mw-primary: #8e4c6f; */
   --mw-primary: #ec7f86;
-  --mw-primary-text: #51b7b6;
+  --mw-secondary: #51b7b6;
   /* --mw-bg-light: #dff0ef; */
   --mw-bg-light: #f5fafa;
 }
@@ -76,7 +76,7 @@ body {
 }
 
 .text-wm-secondary {
-  color: var(--mw-primary-text);
+  color: var(--mw-secondary);
 }
 
 .font-cursive {

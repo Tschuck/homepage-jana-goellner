@@ -1,21 +1,39 @@
 {
+  "2013": "2013",
+  "2014": "2014",
   "about-me": {
-    "desc": "Do est excepteur ad aliqua laborum aliquip. Quis culpa incididunt enim aliquip aliqua nisi consequat aliquip quis duis et exercitation nisi veniam. Qui veniam ex minim officia et quis deserunt.",
+    "desc": "Ich wohne in Wutha-Farnroda. Bin verheiratet und Mama von einem Sohn (2019 geboren).",
     "education": "Ausbildung",
     "education-desc": "Exercitation dolore in minim aute officia cillum elit fugiat aliquip culpa pariatur ullamco. Ut eu non non ad mollit exercitation reprehenderit ut deserunt incididunt Lorem consequat enim. Consequat sit elit exercitation Lorem sit eu cillum dolor tempor ut magna eu.",
     "region": "Region",
     "region-desc": "Ich selbst komme aus Wutha-Farnroda und bin gerne für Familien in den folgenden Gegenden da",
     "region-list": "Wutha, Eisenach, ...",
-    "title": "Über mich"
+    "title": "Über mich",
+    "years": {
+      "0": "Abschluss der Ausbildung und Examen zur Hebamme in Halle (Saale)",
+      "1": "Hebamme im Hufeland-Klinikum Mühlhausen",
+      "2": "Beginn der Arbeit als Hebamme im St. Georg Klinikum Eisenach",
+      "3": "Beginn der freiberuflichen Tätigkeit als Hebamme (Pause 2019 bis Sept. 2020)",
+      "4": "Arbeit als Hebamme im St. Georg Klinikum Eisenach und weiterhin freiberuflich als Hebamme"
+    }
   },
   "after-care": {
     "desc": "Reprehenderit proident anim proident sint ut esse aliqua. Eiusmod mollit anim sint exercitation reprehenderit. Aliqua labore sunt culpa esse. Sit amet cillum dolor eu. Amet aliqua voluptate eu elit proident eu elit.",
     "title": "Betreuung nach der Geburt"
   },
   "contact": {
+    "email-value": "jana-goellner@web.de",
+    "map": "Eisenach, Whuta, ... und Umgebung",
+    "phone-value": "0160 95332264",
     "title": "Kontakt"
   },
-  "impressum": {
+  "imprint": {
+    "desc": "",
+    "email": "E-Mail.",
+    "phone": "Tel.",
+    "publisher": "Herausgeber",
+    "responsible-for-content": "Inhaltlich Verantwortlicher",
+    "responsible-for-content-value": "Jana Goellner",
     "title": "Impressum"
   },
   "navigation": {
@@ -33,11 +51,10 @@
     "title": "Leistungen"
   },
   "side-panel": {
-    "email-value": "jana-goellner@web.de",
-    "phone-value": "0160 95332264",
     "sub-title": "Jana Göllner",
     "title": "Hebamme"
   },
+  "today": "Heute",
   "welcome": {
     "text": "Herzlich Willkommen liebe werdende Mamas, Mamas, liebe junge Familien.<br><br>Die Schwangerschaft, die Geburt und das Zusammenwachsen als Familie ist eine ganz besondere und wertvolle Zeit im Leben. Getragen von vielen Erwartungen und Hoffnungen gilt es neue Wege zu beschreiten. Jedes Kind, jede Schwangerschaft und jede Geburt ist einzigartig. So begegnet man in dieser Phase immer wieder neuen Herausforderungen sowie großen und kleinen Überraschungen.<br><br>Gerne begleite ich Sie als Hebamme in dieser spannenden Zeit. Kontaktieren Sie mich einfach per Telefon oder Mail.",
     "title": "Willkommen"
