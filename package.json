@@ -14,7 +14,7 @@
   "private": true,
   "scripts": {
     "build": "nuxt build",
-    "deploy": "yarn generate && git add --all && git commit -m \"update dist\" && git subtree push --prefix dist origin gh-pages",
+    "deploy": "yarn generate && git add --all && git commit -m \"update dist\" && git subtree push --force --prefix dist origin gh-pages",
     "generate": "nuxt generate",
     "serve": "nuxt",
     "start": "nuxt start"
