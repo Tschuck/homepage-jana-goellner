@@ -1,11 +1,14 @@
 const translations = require('./i18n/index.js');
 
 module.exports = {
+  // dir: 'dist/app',
+  // target: 'static',
   generate: {
     subFolders: false // HTML files are generated according to the route path
   },
   router: {
-    base: '/hebamme-jana-goellner/'
+    // base: '/hebamme-jana-goellner/'
+    base: '/'
   },
   buildModules: [
     '@nuxtjs/tailwindcss',
@@ -48,7 +51,7 @@ module.exports = {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: 'hebamme-jana-goellner/favicon.svg' }
+      { rel: 'icon', type: 'image/x-icon', href: 'favicon.svg' }
     ]
   },
   components: true

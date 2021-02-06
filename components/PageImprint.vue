@@ -6,9 +6,9 @@
       <div class="grid grid-cols-8">
         <b class="col-span-3 mt-4 font-bold">{{ $t('imprint.publisher') }}</b>
         <ul class="col-span-5 mt-4">
-          <li>Name Nachname</li>
-          <li>Adresse</li>
-          <li>99817 Eisenach</li>
+          <li>Jana Göllner</li>
+          <li>Seebacher Straße 62a</li>
+          <li>99848 Wutha-Farnroda</li>
         </ul>
         <b class="col-span-3 mt-4 font-bold">{{ $t('imprint.phone') }}</b>
         <span class="col-span-5 mt-4">{{ $t("contact.phone-value") }}</span>

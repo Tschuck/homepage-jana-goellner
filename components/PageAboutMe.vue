@@ -20,12 +20,6 @@
           <span class="ml-6">{{ $t(`about-me.years.${index}`) }}</span>
         </div>
       </div>
-
-      <h2 class="mt-8 font-bold">{{ $t("about-me.education") }}</h2>
-      <p>{{ $t("about-me.education-desc") }}</p>
-      <h2 class="mt-8 font-bold">{{ $t("about-me.region") }}</h2>
-      <p>{{ $t("about-me.region-desc") }}</p>
-      <p>{{ $t("about-me.region-list") }}</p>
     </div>
   </div>
 </template>
@@ -37,7 +31,16 @@ export default {
   },
   data: () => {
     console.log(this);
-    const years = [2013, 2013, 2014, 2014, 'today'];
+    const years = [
+      '2013',
+      '2013',
+      '2014',
+      '2014-since',
+      '2014-2015',
+      '2015-2017',
+      '2018',
+      'Heute',
+    ];
 
     return {
       years,
@@ -62,9 +65,9 @@ export default {
 }
 
 .bubble {
-  @apply rounded-full z-10 flex items-center justify-center text-xs;
+  @apply rounded-full z-10 flex items-center justify-center text-xs text-center;
   background-color: var(--mw-bg-light);
-  border: 1px solid #b5b5b5;
+  border: 1px solid var(--mw-secondary);
   flex-shrink: 0;
   height: 3.5rem;
   width: 3.5rem;

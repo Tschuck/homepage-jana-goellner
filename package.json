@@ -13,11 +13,11 @@
   "name": "hebamme-jana-goellner",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
-    "deploy": "yarn generate && git add --all && git commit -m \"update dist\" && git subtree push --force --prefix dist origin gh-pages",
-    "generate": "nuxt generate",
+    "deploy:prepare": "rm -rf ./.deploy && mkdir ./.deploy && cp -r ./dist ./.deploy/app && rsync -r --exclude 'node_modules' ./server/* ../.deploy",
+    "generate": "nuxt generate && yarn deploy:prepare",
     "serve": "nuxt",
-    "start": "nuxt start"
+    "start": "nuxt start",
+    "start-server": "cd ./.deploy && yarn start"
   },
   "version": "0.1.0"
 }

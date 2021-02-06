@@ -1,29 +1,30 @@
 {
   "2013": "2013",
   "2014": "2014",
+  "2014-since": "ab 2014",
   "about-me": {
     "desc": "Ich wohne in Wutha-Farnroda. Bin verheiratet und Mama von einem Sohn (2019 geboren).",
-    "education": "Ausbildung",
-    "education-desc": "Exercitation dolore in minim aute officia cillum elit fugiat aliquip culpa pariatur ullamco. Ut eu non non ad mollit exercitation reprehenderit ut deserunt incididunt Lorem consequat enim. Consequat sit elit exercitation Lorem sit eu cillum dolor tempor ut magna eu.",
-    "region": "Region",
-    "region-desc": "Ich selbst komme aus Wutha-Farnroda und bin gerne für Familien in den folgenden Gegenden da",
-    "region-list": "Wutha, Eisenach, ...",
     "title": "Über mich",
     "years": {
       "0": "Abschluss der Ausbildung und Examen zur Hebamme in Halle (Saale)",
       "1": "Hebamme im Hufeland-Klinikum Mühlhausen",
-      "2": "Beginn der Arbeit als Hebamme im St. Georg Klinikum Eisenach",
-      "3": "Beginn der freiberuflichen Tätigkeit als Hebamme (Pause 2019 bis Sept. 2020)",
-      "4": "Arbeit als Hebamme im St. Georg Klinikum Eisenach und weiterhin freiberuflich als Hebamme"
+      "2": "Hebamme im St. Georg Klinikum Eisenach",
+      "3": "Beginn der freiberuflichen Tätigkeit als Hebamme",
+      "4": "Ausbildung Akupunktur für Hebammen und erfolgreicher Abschluss - Zertifiziert vom Bund freiberuflicher Hebammen Deutschlands",
+      "5": "Heilpraktikerausbildung an der Paracelsus Schule in Erfurt",
+      "6": "erfolgreich bestandene Prüfung zum Heilpraktiker (aktuell keine Berufsausübung)",
+      "7": "Hebamme im St. Georg Klinikum Eisenach - freiberufliche Tätigkeit als Hebamme"
     }
   },
   "after-care": {
-    "desc": "Reprehenderit proident anim proident sint ut esse aliqua. Eiusmod mollit anim sint exercitation reprehenderit. Aliqua labore sunt culpa esse. Sit amet cillum dolor eu. Amet aliqua voluptate eu elit proident eu elit.",
+    "desc": "<ul class=\"bullets\"><li>Wochenbettbetreuung (bis 12 Wochen nach der Geburt bei Ihnen zu Hause)</li><li>Stillberatung bis zum Ende der Stillzeit</li></ul>",
     "title": "Betreuung nach der Geburt"
   },
   "contact": {
+    "call-now": "Jetzt anrufen",
+    "email-now": "E-Mail schreiben",
     "email-value": "jana-goellner@web.de",
-    "map": "Eisenach, Whuta, ... und Umgebung",
+    "map": "Eisenach, Whuta-Farnroda und Umgebung",
     "phone-value": "0160 95332264",
     "title": "Kontakt"
   },
@@ -40,14 +41,15 @@
     "start-page": "Willkommen"
   },
   "others": {
-    "desc": "Et cillum nisi magna nulla laboris ipsum. Enim nisi sunt irure nisi cupidatat sit eiusmod reprehenderit. Commodo magna minim aliquip aute minim non sit ex laboris. Eu aliquip consectetur proident voluptate cillum ea veniam elit. Proident proident fugiat Lorem nulla tempor id anim veniam. Magna cupidatat officia laboris magna ullamco labore. Ea ullamco quis nulla aliqua sunt laborum aliqua aute.",
+    "desc": "<ul class=\"bullets\"><li>Akupunktur z.B. zur Geburtsvorbereitung</li></ul>",
     "title": "Weitere Leistungen"
   },
   "pre-care": {
-    "desc": "Magna incididunt est in cillum tempor nulla ipsum cupidatat nisi laboris excepteur laborum. Labore nulla ipsum culpa Lorem enim excepteur commodo proident sit ex magna ea nisi tempor. Magna officia officia incididunt cupidatat eu.",
+    "desc": "<ul class=\"bullets\"><li>individuelles Vorgespräch</li><li>Hilfe bei Schwangerschaftsbeschwerden</li><li>Beratung in der Schwangerschaft</li><li>Akupunktur</li></ul>",
     "title": "Betreuung in der Schwangerschaft"
   },
   "services": {
+    "desc": "Ich begleite Sie gerne in der Schwangerschaft und im Wochenbett in der Region rund um Eisenach und Wutha-Farnroda.",
     "title": "Leistungen"
   },
   "side-panel": {
@@ -56,7 +58,7 @@
   },
   "today": "Heute",
   "welcome": {
-    "text": "Herzlich Willkommen liebe werdende Mamas, Mamas, liebe junge Familien.<br><br>Die Schwangerschaft, die Geburt und das Zusammenwachsen als Familie ist eine ganz besondere und wertvolle Zeit im Leben. Getragen von vielen Erwartungen und Hoffnungen gilt es neue Wege zu beschreiten. Jedes Kind, jede Schwangerschaft und jede Geburt ist einzigartig. So begegnet man in dieser Phase immer wieder neuen Herausforderungen sowie großen und kleinen Überraschungen.<br><br>Gerne begleite ich Sie als Hebamme in dieser spannenden Zeit. Kontaktieren Sie mich einfach per Telefon oder Mail.",
+    "text": "Herzlich Willkommen liebe Schwangere, liebe Mamas und junge Familien.<br><br>Eine Schwangerschaft, die Geburt und das Zusammenwachsen als Familie ist eine ganz besondere und wertvolle Zeit im Leben. Getragen von vielen Erwartungen und Hoffnungen gilt es neue Wege zu beschreiten. Jedes Kind, jede Schwangerschaft und jede Geburt ist einzigartig. So begegnet man in dieser Phase immer wieder neuen Herausforderungen sowie großen und kleinen Überraschungen.<br><br>Gerne begleite ich Sie als Hebamme in dieser spannenden Zeit. Kontaktieren Sie mich einfach per Telefon oder Mail.",
     "title": "Willkommen"
   }
 }

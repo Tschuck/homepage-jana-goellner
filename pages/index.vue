@@ -31,7 +31,6 @@
 export default {};
 </script>
 
-
 <style lang="postcss">
 @font-face {
   font-family: FontCursive;
@@ -125,6 +124,17 @@ body {
 
   @media (max-width: 767px) {
     @apply mb-4;
+  }
+}
+
+.button {
+  @apply bg-transparent font-semibold py-2 px-4;
+
+  border: 1px solid var(--mw-secondary);
+
+  &:hover {
+    @apply text-white border-transparent;
+    background-color: var(--mw-secondary);
   }
 }
 </style>

@@ -37,7 +37,7 @@ export default {
       navList,
     };
   },
-  beforeMount() {
+  mounted() {
     this.scrollEl = document.getElementById('content-scroll');
 
     this.onScroll = () => {
