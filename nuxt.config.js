@@ -39,6 +39,7 @@ module.exports = {
         'faMap',
         'faPhone',
         'faStickyNote',
+        'faTimes',
         'faUser',
       ],
     },
