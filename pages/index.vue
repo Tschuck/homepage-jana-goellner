@@ -1,6 +1,7 @@
 <template>
   <div class="w-full grid-cols-4 text-gray-800 md:grid vh-100 midwife-root">
     <SidePanel class="col-span-1" />
+    <CookieDisclaimer />
 
     <div
       class="col-span-3"
@@ -19,7 +20,7 @@
           >Freepik</a
         >
         from
-        <a href="https://www.flaticon.com/" title="Flaticon"
+        <a href="https://www.flaticon.com/" title="Flaticon" target="_blank"
           >www.flaticon.com</a
         >
       </div>
@@ -36,7 +37,6 @@ export default {};
   font-family: FontCursive;
   src: url(../fonts/Cookie-Regular.ttf);
 }
-
 
 @font-face {
   font-family: FontStraigth;
@@ -79,11 +79,11 @@ body {
 }
 
 .font-cursive {
-  font-family: 'FontCursive', cursive;
+  font-family: "FontCursive", cursive;
 }
 
 .font-straight {
-  font-family: 'FontStraigth', cursive;
+  font-family: "FontStraigth", cursive;
 }
 
 .bg-primary {
@@ -128,12 +128,55 @@ body {
 }
 
 .button {
+  @apply font-semibold py-2 px-4 text-white;
+
+  &.primary {
+    background-color: var(--mw-primary);
+
+    &:hover {
+      background-color: #c76a70;
+    }
+  }
+
+  &.secondary {
+    background-color: var(--mw-secondary);
+
+    &:hover {
+      background-color: var(--mw-secondary);
+    }
+  }
+}
+
+.button-border {
   @apply bg-transparent font-semibold py-2 px-4;
 
-  border: 1px solid var(--mw-secondary);
+
+  &.primary {
+    border: 1px solid var(--mw-primary);
+
+    &:hover {
+      @apply text-white border-transparent;
+      background-color: var(--mw-primary);
+    }
+  }
+
+  &.secondary {
+    border: 1px solid var(--mw-secondary);
+
+    &:hover {
+      @apply text-white border-transparent;
+      background-color: var(--mw-secondary);
+    }
+  }
+}
+
+.button-border-secondary {
+  @apply font-semibold py-2 px-4 text-white;
+
+  background-color: var(--mw-primary);
 
   &:hover {
-    @apply text-white border-transparent;
+    @apply  border-transparent;
     background-color: var(--mw-secondary);
   }
 }

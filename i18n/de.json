@@ -1,7 +1,8 @@
 {
   "2013": "2013",
   "2014": "2014",
-  "2014-since": "ab 2014",
+  "2014-from": "ab 2014",
+  "2014-since": "seit 2014",
   "about-me": {
     "desc": "Ich wohne in Wutha-Farnroda. Bin verheiratet und Mama von einem Sohn (2019 geboren).",
     "title": "Über mich",
@@ -28,13 +29,18 @@
     "phone-value": "0160 95332264",
     "title": "Kontakt"
   },
+  "data-security": {
+    "cookie-disclaimer": "Diese Website verwendet Cookies. Es werden nur technisch notwendige Cookies in Ihrem Browser gespeichert, da sie für das Funktionieren grundlegender Funktionalitäten der Website unerlässlich sind. Es werden keine Drittanbieter Cookies verwendet und keine Daten erhoben.",
+    "ok": "Ok",
+    "read-more": "Mehr lesen"
+  },
   "imprint": {
     "desc": "",
     "email": "E-Mail.",
     "phone": "Tel.",
     "publisher": "Herausgeber",
     "responsible-for-content": "Inhaltlich Verantwortlicher",
-    "responsible-for-content-value": "Jana Goellner",
+    "responsible-for-content-value": "Jana Göllner",
     "title": "Impressum"
   },
   "navigation": {
