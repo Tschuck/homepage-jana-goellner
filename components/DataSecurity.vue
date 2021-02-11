@@ -29,7 +29,9 @@
 
     <h2 class="mt-8 mb-4 text-3xl">II. Hinweise zur Verarbeitung personenbezogener Daten</h2>
 
-    Bei der Nutzung dieser Website werden keine personenbezogenen Daten gespeichert.
+    Bei der Nutzung dieser Website werden nur minimalistische Metadaten als personenbezogenen Daten durch Dritte erhoben. Diese Metadaten enthalten äußerst eingeschränkte persönliche Daten, meist in Form von IP-Adressen.
+
+    <a href="https://www.cloudflare.com/de-de/gdpr/introduction/">Cloudflare Datensicherheit</a>
 
     <h3 class="mt-8 mb-4 text-xl">Cookies</h3>
 
@@ -54,10 +56,9 @@
 
     Diese Website nutzt Cloudflare mit Sitz in San Francisco, CA, USA als DNS- und SSL / TLS-Anbieter. Das bedeutet, dass alle Daten im Zusammenhang mit dem Zugriff auf diese Website über Server geleitet werden, die von diesem Anbieter betrieben oder überwacht werden. Dies geschieht zum einen, um die Verbindung zwischen dem Computer eines Nutzers und unseren Servern zu sichern und zum anderen, um DDoS-Angriffe auf unsere Website(s) zu verhindern. Es ist möglich, dass auch personenbezogene Daten von Nutzern auf den Servern von Cloudflare zwischengespeichert werden. Cloudflare stellt sicher, dass alle Daten, die auf ihren Servern oder den von ihnen überwachten Servern gespeichert werden, unabhängig von der Dauer der Datenspeicherung, nach den durch die GDPR definierten Vorschriften betrieben werden.
     <br><br>
-    Durch die Zertifizierung nach dem EU-US Privacy Shield
-    https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&status=Active
-    garantiert Cloudflare, dass sie bei der Verarbeitung von Daten in den Vereinigten Staaten die Datenschutzbestimmungen der EU einhalten werden.
     Die Rechtsgrundlage für die Nutzung der oben beschriebenen Cloudflare-Dienste ist Art. 6 Abs. 1 lit. a) GDPR. Unser berechtigtes Interesse liegt in der Verbesserung der Funktionalität, Sicherheit und Erreichbarkeit unserer Website.
+
+    <a href="https://www.cloudflare.com/de-de/gdpr/introduction/">Mehr lesen zu: Cloudflare Datensicherheit</a>
 
     <h1 class="mt-8 mb-4 text-4xl">III. Rechte von Nutzern und betroffenen Personen</h1>
 
