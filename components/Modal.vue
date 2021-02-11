@@ -2,7 +2,7 @@
   <div>
     <div
       class="card modal"
-      style="top: 5%; bottom: 5%;"
+      style="top: 5%; bottom: 5%; width: 800px;"
       v-if="show"
     >
       <slot />

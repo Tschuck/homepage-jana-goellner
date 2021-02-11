@@ -1,5 +1,5 @@
 <template>
-  <div class="p-4">
+  <div class="p-4 text-justify">
     <h1 class="text-4xl">Hinweise zum Datenschutz</h1>
 
     Die nachfolgenden Vorschriften informieren Sie über Art, Umfang, Dauer und Zweck der Verarbeitung personenbezogener Daten durch den verantwortlichen Anbieter dieser Website sowie über datenschutzrelevante Komponenten Dritter, die wir zur Erhöhung der Nutzbarkeit unserer Website einsetzen.
@@ -15,19 +15,16 @@
     Verantwortlicher Anbieter dieser Website im Sinne des Datenschutzrechts ist:
     <br><br>
     <b class="col-span-3 mt-4 font-bold">{{ $t('imprint.publisher') }}</b>
-    <ul class="col-span-5 mt-4">
-      <li>Jana Göllner</li>
-      <li>Seebacher Straße 62a</li>
-      <li>99848 Wutha-Farnroda</li>
+    <ul class="col-span-5">
+      <li>{{ $t('imprint.responsible-for-content-value') }}</li>
+      <li>{{ $t('imprint.street') }}</li>
+      <li>{{ $t('imprint.city') }}</li>
     </ul>
-    <br>
-    <b class="col-span-3 mt-4 font-bold">{{ $t('imprint.phone') }}</b>
-    <span class="col-span-5 mt-4">{{ $t("contact.phone-value") }}</span>
-    <br>
-    <b class="col-span-3 mt-4 font-bold">{{ $t('imprint.email') }}</b>
-    <span class="col-span-5 mt-4">{{ $t("contact.email-value") }}</span>
-    <br>
-    <b class="col-span-3 mt-4 font-bold">{{ $t('imprint.responsible-for-content') }}</b>
+    <b class="block mt-4 font-bold">{{ $t('imprint.phone') }}</b>
+    <a class="block mb-4" :href="`tel:${$t('contact.phone-value')}`">{{ $t("contact.phone-value") }}</a>
+    <b class="block mt-4 font-bold">{{ $t('imprint.email') }}</b>
+    <a class="block mb-4" :href="`mailto:${$t('contact.email-link-value')}`">{{ $t("contact.email-value") }}</a>
+    <b class="block col-span-3 mt-4 font-bold">{{ $t('imprint.responsible-for-content') }}</b>
     <span class="col-span-5 mt-4">{{ $t("imprint.responsible-for-content-value") }}</span>
 
     <h2 class="mt-8 mb-4 text-3xl">II. Hinweise zur Verarbeitung personenbezogener Daten</h2>

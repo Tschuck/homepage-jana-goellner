@@ -13,17 +13,6 @@
       <PageAboutMe />
       <PageContact />
       <PageImprint />
-
-      <div class="p-3 mt-32 text-xs italic text-center bg-gray">
-        Icons made by
-        <a href="https://www.flaticon.com/authors/freepik" title="Freepik"
-          >Freepik</a
-        >
-        from
-        <a href="https://www.flaticon.com/" title="Flaticon" target="_blank"
-          >www.flaticon.com</a
-        >
-      </div>
     </div>
   </div>
 </template>

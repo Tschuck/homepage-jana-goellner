@@ -1,7 +1,6 @@
 {
   "2013": "2013",
   "2014": "2014",
-  "2014-from": "ab 2014",
   "2014-since": "seit 2014",
   "about-me": {
     "desc": "Ich wohne in Wutha-Farnroda. Bin verheiratet und Mama von einem Sohn (2019 geboren).",
@@ -24,24 +23,26 @@
   "close": "Schließen",
   "contact": {
     "call-now": "Jetzt anrufen",
+    "email-link-value": "jana-goellner%40web.de",
     "email-now": "E-Mail schreiben",
-    "email-value": "jana-goellner@web.de",
-    "map": "Eisenach, Whuta-Farnroda und Umgebung",
+    "email-value": "jana-goellner[at]web.de",
+    "map": "Eisenach, Wutha-Farnroda und Umgebung",
     "phone-value": "0160 95332264",
     "title": "Kontakt"
   },
   "data-security": {
-    "cookie-disclaimer": "Diese Website verwendet Cookies. Es werden nur technisch notwendige Cookies in Ihrem Browser gespeichert, da sie für das Funktionieren grundlegender Funktionalitäten der Website unerlässlich sind. Es werden keine Drittanbieter Cookies verwendet und keine Daten erhoben.",
+    "cookie-disclaimer": "Diese Website verwendet Cookies. Es werden nur technisch notwendige Cookies in Ihrem Browser gespeichert, da sie für das Funktionieren grundlegender Funktionalitäten der Website unerlässlich sind. Es werden keinerlei Daten erhoben.",
     "ok": "Ok",
     "read-more": "Mehr lesen"
   },
   "imprint": {
-    "desc": "",
-    "email": "E-Mail.",
-    "phone": "Tel.",
+    "city": "99848 Wutha-Farnroda",
+    "email": "E-Mail",
+    "phone": "Telefonnummer",
     "publisher": "Herausgeber",
     "responsible-for-content": "Inhaltlich Verantwortlicher",
     "responsible-for-content-value": "Jana Göllner",
+    "street": "Seebacher Straße 62a",
     "title": "Impressum"
   },
   "navigation": {
@@ -65,7 +66,7 @@
   },
   "today": "Heute",
   "welcome": {
-    "text": "Herzlich Willkommen liebe Schwangere, liebe Mamas und junge Familien.<br><br>Eine Schwangerschaft, die Geburt und das Zusammenwachsen als Familie ist eine ganz besondere und wertvolle Zeit im Leben. Getragen von vielen Erwartungen und Hoffnungen gilt es neue Wege zu beschreiten. Jedes Kind, jede Schwangerschaft und jede Geburt ist einzigartig. So begegnet man in dieser Phase immer wieder neuen Herausforderungen sowie großen und kleinen Überraschungen.<br><br>Gerne begleite ich Sie als Hebamme in dieser spannenden Zeit. Kontaktieren Sie mich einfach per Telefon oder Mail.",
+    "text": "Herzlich Willkommen liebe Schwangere, liebe Mamas und junge Familien.<br><br>Eine Schwangerschaft, die Geburt und das Zusammenwachsen als Familie ist eine ganz besondere und wertvolle Zeit im Leben. Getragen von vielen Erwartungen und Hoffnungen, gilt es neue Wege zu beschreiten. Jedes Kind, jede Schwangerschaft und jede Geburt ist einzigartig. So begegnet man in dieser Phase immer wieder neuen Herausforderungen sowie großen und kleinen Überraschungen.<br><br>Gerne begleite ich Sie als Hebamme in dieser spannenden Zeit. Kontaktieren Sie mich einfach per Telefon oder Mail.",
     "title": "Willkommen"
   }
 }

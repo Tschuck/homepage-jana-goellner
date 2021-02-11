@@ -15,14 +15,7 @@
       <h2 class="text-2xl font-straight" style="margin-top: -10px;">{{ $t("side-panel.sub-title") }}</h2>
 
       <div class="w-full px-1 py-4 mt-4 border-t border-b md:px-4 lg:px-8">
-        <a class="block mb-4 truncate" :href="`tel:${$t('contact.phone-value')}`">
-          <font-awesome-icon class="mr-1" :icon="['fa', 'phone']" />
-          <span class="ml-3">{{ $t("contact.phone-value") }}</span>
-        </a>
-        <a class="truncate" :href="`mailto:${$t('contact.email-value')}`">
-          <font-awesome-icon class="mr-1" :icon="['fa', 'envelope']" />
-          <span class="ml-3">{{ $t("contact.email-value") }}</span>
-        </a>
+        <PhoneAndEmail />
       </div>
     </div>
 
@@ -41,7 +34,7 @@
         <a class="flex items-center justify-center w-12 h-full border-l" :href="`tel:${$t('side-panel.phone-value')}`">
           <font-awesome-icon class="text-2xl " :icon="['fa', 'phone']" />
         </a>
-        <a class="flex items-center justify-center w-12 h-full border-l" :href="`mailto:${$t('side-panel.email-value')}`">
+        <a class="flex items-center justify-center w-12 h-full border-l" :href="`mailto:${$t('side-panel.email-link-value')}`">
           <font-awesome-icon class="text-2xl" :icon="['fa', 'envelope']" />
         </a>
       </div>
