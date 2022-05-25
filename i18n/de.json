@@ -2,18 +2,20 @@
   "2013": "2013",
   "2014": "2014",
   "2014-since": "seit 2014",
+  "maternal-leave": "Ihr Lieben,<br>ab August 2022 bin ich selbst in Elternzeit und nehme aktuell keine Betreuungen mehr an. Ab August 2023 bin ich gerne wieder für euch da.",
   "about-me": {
-    "desc": "Ich wohne in Wutha-Farnroda. Bin verheiratet und Mama von einem Sohn (2019 geboren).",
+    "desc": "Ich bin Jana und seit 2013 Hebamme. Ich lebe in Wutha-Farnroda, bin verheiratet und Mama von einem Sohn (2019 geboren).",
     "title": "Über mich",
     "years": {
       "0": "Abschluss der Ausbildung und Examen zur Hebamme in Halle (Saale)",
       "1": "Hebamme im Hufeland-Klinikum Mühlhausen",
       "2": "Hebamme im St. Georg Klinikum Eisenach",
-      "3": "Beginn der freiberuflichen Tätigkeit als Hebamme",
+      "3": "Freiberufliche Tätigkeit als Hebamme",
       "4": "Ausbildung Akupunktur für Hebammen und erfolgreicher Abschluss - Zertifiziert vom Bund freiberuflicher Hebammen Deutschlands",
       "5": "Heilpraktikerausbildung an der Paracelsus Schule in Erfurt",
       "6": "erfolgreich bestandene Prüfung zum Heilpraktiker (aktuell keine Berufsausübung)",
-      "7": "Hebamme im St. Georg Klinikum Eisenach - freiberufliche Tätigkeit als Hebamme"
+      "7": "Fortbildung Aku-Taping",
+      "8": "Hebamme im St. Georg Klinikum Eisenach und freiberufliche Tätigkeit als Hebamme"
     }
   },
   "after-care": {
@@ -39,6 +41,8 @@
     "city": "99848 Wutha-Farnroda",
     "email": "E-Mail",
     "phone": "Telefonnummer",
+    "pictures": "Bilder",
+    "pictures-value": "Zeitlos Fotografie (Wutha-Farnroda)",
     "publisher": "Herausgeber",
     "responsible-for-content": "Inhaltlich Verantwortlicher",
     "responsible-for-content-value": "Jana Göllner",
@@ -49,11 +53,11 @@
     "start-page": "Willkommen"
   },
   "others": {
-    "desc": "<ul class=\"bullets\"><li>Akupunktur z.B. zur Geburtsvorbereitung</li></ul>",
+    "desc": "<ul class=\"bullets\"><li>Akupunktur z.B. zur Geburtsvorbereitung</li><li>Aku-Taping</li></ul>",
     "title": "Weitere Leistungen"
   },
   "pre-care": {
-    "desc": "<ul class=\"bullets\"><li>individuelles Vorgespräch</li><li>Hilfe bei Schwangerschaftsbeschwerden</li><li>Beratung in der Schwangerschaft</li><li>Akupunktur</li></ul>",
+    "desc": "<ul class=\"bullets\"><li>individuelles Vorgespräch</li><li>Hilfe bei Schwangerschaftsbeschwerden</li><li>Beratung in der Schwangerschaft</li></ul>",
     "title": "Betreuung in der Schwangerschaft"
   },
   "services": {

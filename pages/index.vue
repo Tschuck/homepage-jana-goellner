@@ -102,7 +102,7 @@ body {
 }
 
 .card {
-  @apply border mb-16 p-8 bg-white;
+  @apply border mb-16 p-8 bg-white shadow-md;
 
   width: 600px;
   max-width: 100%;

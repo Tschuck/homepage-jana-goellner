@@ -52,7 +52,7 @@ module.exports = {
       {
         hid: 'description',
         name: 'description',
-        content: 'Hebamme ',
+        content: 'Hebamme Jana Göllner - freiberufliche Hebamme in Wutha-Farnroda, Eisenach und Umgebung',
       }
     ],
     link: [

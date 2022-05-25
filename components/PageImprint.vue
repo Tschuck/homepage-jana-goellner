@@ -17,6 +17,9 @@
       <b class="block mt-4 font-bold">{{ $t('imprint.responsible-for-content') }}</b>
       <span>{{ $t("imprint.responsible-for-content-value") }}</span>
 
+      <b class="block mt-4 font-bold">{{ $t('imprint.pictures') }}</b>
+      <a class="mb-4" href="http://www.zeitlos-fotografie.de">{{ $t("imprint.pictures-value") }}</a>
+
       <div class="p-3 mt-8 text-xs italic text-center bg-gray">
         Icons made by
         <a href="https://www.flaticon.com/authors/freepik" title="Freepik"

@@ -1,14 +1,13 @@
 <template>
-  <div class="border-r shadow-lg vh-100" id="sidepanel">
+  <div class="border-r shadow-lg vh-100" id="sidepanel" style="z-index: 5">
     <div class="flex-col items-center justify-start hidden py-8 md:flex">
       <div
-        class="flex items-center justify-center p-2 overflow-hidden rounded-full"
-        style="border: 5px solid var(--mw-primary)"
+        class="flex items-center justify-center overflow-hidden border rounded-full shadow-lg"
       >
         <img
-          src="~/assets/img/sample.png"
+          src="~/assets/img/sidepanel_person.jpg"
           class="rounded-full"
-          style="width: 150px; max-width: 100%"
+          style="width: 250px; max-width: 100%"
         />
       </div>
       <h1 class="mt-3 text-5xl font-cursive text-wm-secondary">{{ $t("side-panel.title") }}</h1>
@@ -22,7 +21,7 @@
     <div class="fixed z-20 flex justify-between w-full h-12 shadow-lg md:hidden border-bottom t-0">
       <div class="flex items-center justify-center">
         <img
-          src="~/assets/img/sample.png"
+          src="~/assets/img/sidepanel_person.jpg"
           class="mx-3 rounded-full"
           style="width: 40px; height: 40px"
         />
@@ -31,10 +30,10 @@
       </div>
 
       <div class="flex">
-        <a class="flex items-center justify-center w-12 h-full border-l" :href="`tel:${$t('side-panel.phone-value')}`">
+        <a class="flex items-center justify-center w-12 h-full border-l" :href="`tel:${$t('contact.phone-value')}`">
           <font-awesome-icon class="text-2xl " :icon="['fa', 'phone']" />
         </a>
-        <a class="flex items-center justify-center w-12 h-full border-l" :href="`mailto:${$t('side-panel.email-link-value')}`">
+        <a class="flex items-center justify-center w-12 h-full border-l" :href="`mailto:${$t('contact.email-link-value')}`">
           <font-awesome-icon class="text-2xl" :icon="['fa', 'envelope']" />
         </a>
       </div>

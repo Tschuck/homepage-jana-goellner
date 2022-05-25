@@ -1,8 +1,12 @@
 <template>
-  <div class="justify-start page ">
-    <Logo class="mt-4 md:mt-16" width="30%" height="auto" style="max-width: 300px" />
+  <div class="justify-start page">
+    <Logo class="p-1 mt-4 bg-white border rounded-full shadow-lg mw-logo" height="auto" />
 
     <Separator separatorId="welcome"/>
+
+    <div class="text-xl text-white card" style="background-color: var(--mw-primary);">
+      <p v-html="$t('maternal-leave')"></p>
+    </div>
 
     <div class="bg-white card">
       <p class="text-justify" v-html="$t('welcome.text')" />
@@ -29,3 +33,15 @@ export default {
   },
 };
 </script>
+
+
+<style lang="postcss">
+.mw-logo {
+  @media (min-width: 768px) {
+    width: 200px !important;
+  }
+  @media (max-width: 767px) {
+    width: 140px !important;
+  }
+}
+</style>

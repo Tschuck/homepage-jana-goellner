@@ -27,14 +27,6 @@ export default {
   src: url(../fonts/PoiretOne-Regular.ttf);
 }
 
-:root {
-  /* --mw-primary: #8e4c6f; */
-  --mw-primary: #ec7f86;
-  --mw-secondary: #51b7b6;
-  /* --mw-bg-light: #dff0ef; */
-  --mw-bg-light: #f5fafa;
-}
-
 body {
   height: 100vh;
 }

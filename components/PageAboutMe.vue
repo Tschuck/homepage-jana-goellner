@@ -20,6 +20,8 @@
           <span class="ml-6">{{ $t(`about-me.years.${index}`) }}</span>
         </div>
       </div>
+
+      <img src="~/assets/img/about_me.png" />
     </div>
   </div>
 </template>
@@ -32,14 +34,15 @@ export default {
   data: () => {
     console.log(this);
     const years = [
-      '2013',
-      '2013',
-      '2014-since',
-      '2014-since',
-      '2014-2015',
-      '2015-2017',
-      '2018',
-      'Heute',
+      "2013",
+      "2013",
+      "2014-since",
+      "2014-since",
+      "2014-2015",
+      "2015-2017",
+      "2018",
+      "2021",
+      "Heute",
     ];
 
     return {
@@ -61,15 +64,15 @@ export default {
   bottom: 1rem;
   top: 1rem;
   left: 1.6rem;
-  background-color: var(--mw-primary);
+  background-color: var(--mw-secondary);
 }
 
 .bubble {
-  @apply rounded-full z-10 flex items-center justify-center text-xs text-center;
-  background-color: var(--mw-bg-light);
-  border: 1px solid var(--mw-secondary);
+  @apply rounded-full z-10 flex items-center justify-center text-center shadow-lg font-bold border p-1;
+  background-color: #fff;
   flex-shrink: 0;
   height: 3.5rem;
   width: 3.5rem;
+  font-size: 0.7rem;
 }
 </style>
