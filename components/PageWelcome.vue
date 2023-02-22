@@ -4,10 +4,6 @@
 
     <Separator separatorId="welcome"/>
 
-    <div class="text-xl text-white card" style="background-color: var(--mw-primary);">
-      <p v-html="$t('maternal-leave')"></p>
-    </div>
-
     <div class="bg-white card">
       <p class="text-justify" v-html="$t('welcome.text')" />
 
