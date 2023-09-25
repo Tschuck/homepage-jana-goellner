@@ -21,7 +21,9 @@
         </div>
       </div>
 
-      <img src="~/assets/img/about_me.png" />
+      <div class="flex justify-center">
+        <img src="~/assets/img/sidepanel_person.jpg" />
+      </div>
     </div>
   </div>
 </template>
@@ -32,7 +34,6 @@ export default {
     i18nScope: { type: String },
   },
   data: () => {
-    console.log(this);
     const years = [
       "2013",
       "2013",
