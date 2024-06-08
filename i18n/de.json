@@ -2,20 +2,18 @@
   "2013": "2013",
   "2014": "2014",
   "2014-since": "seit 2014",
-  "maternal-leave": "Ihr Lieben,<br>ab August 2022 bin ich selbst in Elternzeit und nehme aktuell keine Betreuungen mehr an. Ab August 2023 bin ich gerne wieder für euch da.",
   "about-me": {
     "desc": "Ich bin Jana und seit 2013 Hebamme. Ich lebe in Wutha-Farnroda, bin verheiratet und Mama von zwei Söhnen (2019 und 2022 geboren).",
     "title": "Über mich",
     "years": {
-      "0": "Abschluss der Ausbildung und Examen zur Hebamme in Halle (Saale)",
-      "1": "Hebamme im Hufeland-Klinikum Mühlhausen",
-      "2": "Hebamme im St. Georg Klinikum Eisenach",
-      "3": "Freiberufliche Tätigkeit als Hebamme",
-      "4": "Ausbildung Akupunktur für Hebammen und erfolgreicher Abschluss - Zertifiziert vom Bund freiberuflicher Hebammen Deutschlands",
-      "5": "Heilpraktikerausbildung an der Paracelsus Schule in Erfurt",
-      "6": "erfolgreich bestandene Prüfung zum Heilpraktiker (aktuell keine Berufsausübung)",
-      "7": "Fortbildung Aku-Taping",
-      "8": "Hebamme im St. Georg Klinikum Eisenach und freiberufliche Tätigkeit als Hebamme"
+      "0": "Hebamme im st Georg Klinikum Eisenach",
+      "1": "freiberufliche Hebamme",
+      "2": "Fortbildung Nährstoffe in der Perinatalzeit",
+      "3": "Seminar Schüssler Salze",
+      "4": "Yoga-Fortbildung für Hebammen",
+      "5": "Seminar Chinesische Medizin-kompakt",
+      "6": "Fortbildung Akupressur",
+      "7": "Fortbildung Beckenboden"
     }
   },
   "after-care": {
@@ -49,6 +47,7 @@
     "street": "Seebacher Straße 62a",
     "title": "Impressum"
   },
+  "maternal-leave": "Ihr Lieben,<br>ab August 2022 bin ich selbst in Elternzeit und nehme aktuell keine Betreuungen mehr an. Ab August 2023 bin ich gerne wieder für euch da.",
   "navigation": {
     "start-page": "Willkommen"
   },

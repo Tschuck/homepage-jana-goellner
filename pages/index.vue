@@ -22,6 +22,8 @@ export default {};
 </script>
 
 <style lang="postcss">
+@import '@fortawesome/fontawesome-svg-core/styles.css';
+
 @font-face {
   font-family: FontCursive;
   src: url(../fonts/Cookie-Regular.ttf);
