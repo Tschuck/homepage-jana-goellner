@@ -1,21 +1,38 @@
-# Hebamme - Jana Goellner
+# Homepage - Jana Goellner
 
-Just a small web page for an midwife from the center of germany.
+Homepage for a midwife and Alternative practitioner from germany, thuringia. Visit the deployed homepage here:
 
-## Install
+- [https://hebamme-jana-goellner.de](https://hebamme-jana-goellner.de/)
 
-```sh
-yarn install
-```
+## React + TypeScript + Vite
 
-## Generate static files
+This project was bootstrapped with [Vite](https://vitejs.dev/).
 
-```sh
-yarn generate
-```
+## How to start
 
-## Deploy to github pages
+1. Clone the project
 
-```sh
-yarn deploy
-```
+   ```bash
+   git clone git@github.com:Tschuck/homepage-jana-goellner.git
+   ```
+
+2. Bootstrap the project
+
+   ```bash
+   cd ./homepage-jana-goellner.git
+   npm install
+   ```
+
+   This will install dev dependencies.
+
+3. Start the application
+
+   ```bash
+   npm run dev
+   ```
+
+4. Build the application
+
+   ```bash
+   npm run build
+   ```
