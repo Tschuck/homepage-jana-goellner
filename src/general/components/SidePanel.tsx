@@ -1,0 +1,62 @@
+import { pageRoutes } from "@/general/Router";
+import { Button, ButtonType } from "@/general/components/Button";
+import { BaseComponentProps } from "@/general/interfaces/ComponentProps";
+import { classNames } from "@/general/utils/utils";
+import { useTranslation } from "react-i18next";
+import { Link, useLocation } from "react-router-dom";
+
+export interface SidePanelProps extends BaseComponentProps {
+  isOpen: boolean;
+  onClose: () => void;
+}
+
+export function SidePanel({ className, isOpen, onClose }: SidePanelProps) {
+  const location = useLocation();
+  const { t } = useTranslation();
+
+  return (
+    <>
+      {isOpen && (
+        <>
+          <div
+            className="fixed top-0 bottom-0 left-0 right-0 z-10 bg-gray-900 opacity-50 "
+            onClick={onClose}
+          />
+          <div
+            className={classNames(
+              className,
+              "fixed bg-white top-0 bottom-0 right-0 flex flex-col z-20 p-4 shadow-lg w-3/5 font-inter",
+            )}
+          >
+            {pageRoutes.map((route, index) => {
+              const isActive = location.pathname === route.path;
+
+              return (
+                <Link
+                  to={route.path}
+                  className={classNames(
+                    "flex relative py-4 cursor-pointer items-center justify-center text-gray-800 rounded-lg",
+                    isActive ? "bg-primary text-white" : "",
+                  )}
+                  key={index}
+                  onClick={onClose}
+                >
+                  <span className="text-center text-nowrap">
+                    {t(route.handle.name)}
+                  </span>
+                </Link>
+              );
+            })}
+
+            <div className="flex-grow" />
+            <div className="flex items-center justify-center mt-4">
+              <Button type={ButtonType.BORDER_GRAY} onClick={onClose}>
+                {t("close")}
+              </Button>
+            </div>
+          </div>
+        </>
+      )}
+    </>
+  );
+}

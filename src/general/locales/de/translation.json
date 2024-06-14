@@ -1,0 +1,26 @@
+{
+  "about-me": "Über mich",
+  "blog": "Blog",
+  "close": "Schließen",
+  "contact": {
+    "call": "Anrufen",
+    "call-now": "Jetzt anrufen",
+    "email": "E-Mail",
+    "email-link-value": "jana-goellner%40web.de",
+    "email-now": "E-Mail schreiben",
+    "email-value": "jana-goellner[at]web.de",
+    "map": "Eisenach, Wutha-Farnroda und Umgebung",
+    "phone-value": "0160 95332264",
+    "title": "Kontakt"
+  },
+  "imprint": "Impressum",
+  "jana-goellner": "Jana Goellner",
+  "navigation": "Navigation",
+  "services": "Leistungen",
+  "welcome": {
+    "text": "Herzlich willkommen auf meiner Webseite! Ich freue mich, dass Sie den Weg zu mir gefunden haben. Als erfahrene Hebamme biete ich Ihnen eine umfassende und persönliche Betreuung während dieser besonderen Zeit in Ihrem Leben. Mein Ziel ist es, Ihnen mit Rat und Tat zur Seite zu stehen und Sie auf Ihrem Weg zu einem harmonischen und glücklichen Familienleben zu unterstützen.",
+    "header": "Mit Herz und Hand für Mutter und Kind",
+    "sub-header": "Einfühlsame und kompetente Begleitung rund um Schwangerschaft, Geburt und Wochenbett",
+    "title": "Willkommen"
+  }
+}

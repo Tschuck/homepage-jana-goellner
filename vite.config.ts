@@ -6,7 +6,7 @@ import tsconfigPaths from "vite-tsconfig-paths";
 export default defineConfig({
   plugins: [react(), tsconfigPaths(), splitVendorChunkPlugin()],
   server: {
-    port: 3000,
+    port: 3111,
   },
   build: {
     minify: "terser",

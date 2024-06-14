@@ -2,3 +2,38 @@ html {
   overflow: hidden;
 }
 
+html, body, #root {
+  height: 100vh;
+}
+
+@font-face {
+  font-family: archivo;font-style: normal;font-weight:500;
+  src:url(../fonts/Archivo-Medium.ttf)
+}
+
+@font-face {
+  font-family: archivo;font-style: normal;font-weight:600;
+  src:url(../fonts/Archivo-Semibold.ttf)
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(../fonts/Inter-VariableFont.ttf);
+}
+
+@font-face {
+  font-family: YesevaOne;
+  src: url(../fonts/YesevaOne-Regular.ttf);
+}
+
+.font-archivo {
+  font-family: "Archivo", cursive;
+}
+
+.font-inter {
+  font-family: "Inter";
+}
+
+.font-yeseva {
+  font-family: "YesevaOne";
+}

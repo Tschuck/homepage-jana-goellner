@@ -1,5 +1,6 @@
 import { RootWrapper } from "@/general/components/RootWrapper";
 import { AboutMe } from "@/pages/AboutMe";
+import { Blog } from "@/pages/Blog";
 import { Contact } from "@/pages/Contact";
 import { Imprint } from "@/pages/Imprint";
 import { Services } from "@/pages/Services";
@@ -14,7 +15,7 @@ export const pageRoutes = [
   {
     path: "/",
     element: <StartPage />,
-    handle: { name: "welcome" },
+    handle: { name: "welcome.title", hide: true },
   },
   {
     path: "/services",
@@ -29,7 +30,12 @@ export const pageRoutes = [
   {
     path: "/contact",
     element: <Contact />,
-    handle: { name: "contact" },
+    handle: { name: "contact.title" },
+  },
+  {
+    path: "/blog",
+    element: <Blog />,
+    handle: { name: "blog" },
   },
   {
     path: "/imprint",
