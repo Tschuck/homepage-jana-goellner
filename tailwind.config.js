@@ -8,8 +8,15 @@ export default {
         primary: "#42583D",
         secondary: "#bd7124",
         whitesmoke: "#f7f3e7",
+
+        // old homepage
+        // primary: "#ec7f86",
+        // secondary: "#51b7b6",
+        // whitesmoke: "#f5fafa",
       },
       borderWidth: {
+        small: "8px",
+        medium: "15px",
         thick: "25px",
       },
     },

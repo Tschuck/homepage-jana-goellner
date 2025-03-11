@@ -1,5 +1,5 @@
-import { Router } from "@/general/Router";
-import "./App.css";
+import { Router } from "@/general/router.component";
+import "./app.css";
 import { Suspense } from "react";
 
 function Application() {

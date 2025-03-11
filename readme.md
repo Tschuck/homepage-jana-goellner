@@ -20,7 +20,7 @@ This project was bootstrapped with [Vite](https://vitejs.dev/).
 
    ```bash
    cd ./homepage-jana-goellner.git
-   npm install
+   pnpm install
    ```
 
    This will install dev dependencies.
@@ -28,11 +28,11 @@ This project was bootstrapped with [Vite](https://vitejs.dev/).
 3. Start the application
 
    ```bash
-   npm run dev
+   pnpm run dev
    ```
 
 4. Build the application
 
    ```bash
-   npm run build
+   pnpm run build
    ```

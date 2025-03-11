@@ -1,6 +1,6 @@
-import { pageRoutes } from "@/general/Router";
-import { Button, ButtonType } from "@/general/components/Button";
-import { BaseComponentProps } from "@/general/interfaces/ComponentProps";
+import { pageRoutes } from "@/general/router.component";
+import { Button, ButtonType } from "@/general/components/button.component";
+import { BaseComponentProps } from "@/general/interfaces/component-props.interface";
 import { classNames } from "@/general/utils/utils";
 import { useTranslation } from "react-i18next";
 import { Link, useLocation } from "react-router-dom";
@@ -25,7 +25,7 @@ export function SidePanel({ className, isOpen, onClose }: SidePanelProps) {
           <div
             className={classNames(
               className,
-              "fixed bg-white top-0 bottom-0 right-0 flex flex-col z-20 p-4 shadow-lg w-3/5 font-inter",
+              "fixed bg-white top-0 bottom-0 right-0 flex flex-col z-20 p-4 shadow-lg w-4/5 font-inter",
             )}
           >
             {pageRoutes.map((route, index) => {

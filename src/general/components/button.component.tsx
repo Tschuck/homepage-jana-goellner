@@ -6,7 +6,8 @@ export enum ButtonType {
   ICON = "ICON",
   ICON_PRIMARY = "ICON_PRIMARY",
   PRIMARY = "PRIMARY",
-  BORDER_GRAY = "SECONDARY",
+  BORDER_GRAY = "BORDER_GRAY",
+  SECONDARY = "SECONDARY",
 }
 
 export interface ButtonProps extends PropsWithChildren {
@@ -35,6 +36,12 @@ export function Button({
     case ButtonType.PRIMARY: {
       buttonClasses.push(
         "flex items-center gap-4 px-4 py-2 bg-primary border rounded-lg hover:primary-hover text-white font-archivo",
+      );
+      break;
+    }
+    case ButtonType.SECONDARY: {
+      buttonClasses.push(
+        "flex items-center gap-4 px-4 py-2 bg-secondary border rounded-lg hover:secondary-hover text-white font-archivo",
       );
       break;
     }
