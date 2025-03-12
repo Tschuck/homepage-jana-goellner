@@ -2,8 +2,6 @@
 
 *„Und jedem Anfang wohnt ein Zauber inne, der uns beschützt und der uns hilft zu leben.“ Hermann Hesse*
 
-#### Leistungen
-
 - Begleitung des Wochenbettes
 - Rückbildungsvorgänge überwachen und fördern (mit besonderem Augenmerk auf Beckenboden und Rektusdiastase)
 - Narbenentstörung
@@ -12,8 +10,6 @@
 - Bindungsförderung
 - Beratung zum Handling des Babys, zur Pflege, zum gesundem Babyschlaf u.a.
 - Stillberatung
-
-#### Wochenbettbetreuung
 
 Eine Schwangerschaft ist ein Wunder. Eine Geburt ist ein Wunder. Und mit dem Entstehen der Familie- die Frau ist nun auch Mama, der Mann ist nun auch Papa und das Baby stellt alles auf den Kopf 😉- geht das Wunder weiter.
 Die Zeit nach der Geburt ist eine ganz besondere, sensible und faszinierende Zeit. Die Eltern wachsen in ihre neuen Rollen hinein, das Baby kommt richtig an- hier auf der Welt. Oft ist diese Phase begleitet von großen Gefühlen, vielen Erwartungen und Herausforderungen einer ganz neuen Art.
