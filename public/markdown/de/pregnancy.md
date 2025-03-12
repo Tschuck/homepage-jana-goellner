@@ -1,4 +1,4 @@
-#### Die Schwangerschaft
+#### Schwangerschaft
 
 „Giving birth can be the most empowering experience of a lifetime- an initiation into a new dimension of mind-body awareness.“ *Ina May Gaskin
 
