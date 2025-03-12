@@ -19,9 +19,37 @@ jana-goellner[at]web.de
 
 Jana Göllner
 
-##### Bilder
+####Bilder 
 
 Verwendete Bilder sind kostenlos kommerziell verwendbar im Rahmen der [Unsplash Lizenz](https://unsplash.com/de/lizenz). Fuer bessere Optimierung der Homepage wurden Kopien der Bilder auf dem System des Website-Betreibers abelegt.
+
+-Willkommen
+ - [Bild1](https://unsplash.com/de/fotos/eine-person-die-die-fusse-eines-babys-in-den-handen-halt-K49qi6a9BkM)
+
+- Schwangerschaft
+ - [Bild2](https://unsplash.com/de/fotos/frau-tragt-tagsuber-ein-weisses-kurzarmeliges-kleid-aaufr_hQ9rM)
+ - [Bild3](https://unsplash.com/de/fotos/nahaufnahme-des-babys-auf-blauer-decke-WCbCRXk7nmU)
+   
+- Nachsorge
+  - [Bild4](https://unsplash.com/de/fotos/ein-baby-liegt-auf-einem-bett-mit-weissen-laken-7mPR3JZlk74)
+  - [Bild5](https://unsplash.com/de/fotos/frau-in-schwarz-weissem-geblumtem-tanktop-tragt-baby-82KmKGNteuo)
+ 
+- Kinderwunsch- und Zyklusberatung
+  - [Bild6](https://unsplash.com/de/fotos/ein-3d-bild-eines-balls-inmitten-eines-labyrinths-Th4-Mh07abc)
+  - [Bild7](https://unsplash.com/de/fotos/eine-weisse-schussel-gefullt-mit-gemuse-und-eiern-FtQ9v-vfklQ)
+  - [Bild8](https://unsplash.com/de/fotos/woman-doing-yoga-nqUHQkuVj3c)
+
+- TCM
+   - [Bild8](https://unsplash.com/de/fotos/weisses-und-braunes-rundes-dekor-CFqUdmzzti0)
+   - [Bild9]
+  
+- Über mich
+  - Jana Goellner - selbstgemacht
+  - Jana Goellner low res - selbstgemacht
+  - [Two People on Gray Soil](https://unsplash.com/photos/two-person-step-on-gray-soil-7edWO30e32k)
+  - [Yannic Laderach Unsplash](https://unsplash.com/photos/woman-standing-on-rock-facing-forest-Dqx4XWuXu7w)
+
+####Bilder alt
 
 - Willkommen
   - [Infant Feet on Blanket.jpg](https://unsplash.com/photos/infants-feet-being-held-by-a-womans-hand-with-painted-and-manicured-hands-resting-on-a-gray-blanket-S8BW-Wx9G8I)
