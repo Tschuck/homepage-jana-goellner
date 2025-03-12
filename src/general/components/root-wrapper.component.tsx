@@ -1,4 +1,5 @@
 import Favicon from "@/assets/favicon.svg";
+import { websiteDefinition } from "@/definition/website-definition";
 import { Button, ButtonType } from "@/general/components/button.component";
 import { CookieDisclaimer } from "@/general/components/cookie-disclaimer.component";
 import { Navigation } from "@/general/components/navigation.component";
@@ -23,7 +24,7 @@ export function RootWrapper() {
               className="text-2xl text-gray-900 md:text-3xl font-yeseva"
               viewTransition
             >
-              {t("jana-goellner")}
+              {websiteDefinition.title}
             </Link>
             <Navigation className="absolute flex hidden w-screen -mt-3 lg:hidden" />
           </div>
@@ -40,7 +41,7 @@ export function RootWrapper() {
             </Button>
             <Button
               className="flex lg:hidden"
-              link={`tel:${t("contact.phone-value")}`}
+              link={`tel:${websiteDefinition.phoneNumber}`}
               type={ButtonType.ICON_PRIMARY}
             >
               <PhoneIcon className="w-4 h-4" />

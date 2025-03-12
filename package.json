@@ -48,11 +48,13 @@
     "serve": "^14.2.3",
     "tailwindcss": "^3.4.1",
     "terser": "^5.31.0",
+    "tsx": "^4.19.3",
     "typescript": "^5.2.2",
     "vite": "^5.1.7"
   },
   "name": "homepage-jana-goellner",
   "scripts": {
+    "download-definition-images": "tsx ./src/download-definition-images.ts",
     "build": "tsc && vite build",
     "build:staging": "tsc && vite build --mode staging",
     "dev": "vite",
