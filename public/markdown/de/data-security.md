@@ -1,34 +1,42 @@
-Datenschutzerklärung
-1. Datenschutz auf einen Blick
+
+###Datenschutzerklärung
+#### 1. Datenschutz auf einen Blick
+
 Allgemeine Hinweise
 Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten
 passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie
 persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen
 Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
+
 Datenerfassung auf dieser Website
 Wer ist verantwortlich für die Datenerfassung auf dieser Website?
 Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten
 können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.
+
 Wie erfassen wir Ihre Daten?
 Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um
 Daten handeln, die Sie in ein Kontaktformular eingeben.
-Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere ITSysteme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit
+Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere ITSysteme
+erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit
 des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.
+
 Wofür nutzen wir Ihre Daten?
 Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere
 Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden. Sofern über die Website Verträge
 geschlossen oder angebahnt werden können, werden die übermittelten Daten auch für Vertragsangebote,
 Bestellungen oder sonstige Auftragsanfragen verarbeitet.
+
 Welche Rechte haben Sie bezüglich Ihrer Daten?
 Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer
 gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder
 Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben,
 können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter
- 2 / 7
 bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
 Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
 Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.
-2. Allgemeine Hinweise und Pflichtinformationen
+
+#### 2. Allgemeine Hinweise und Pflichtinformationen
+
 Datenschutz
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre
 personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie
@@ -40,6 +48,7 @@ und zu welchem Zweck das geschieht.
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail)
 Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
 möglich.
+
 Hinweis zur verantwortlichen Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 Jana Göllner
@@ -50,6 +59,7 @@ E-Mail: jana-goellner@web.de
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über
 die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.)
 entscheidet.
+
 Speicherdauer
 Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben
 Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein
@@ -57,13 +67,12 @@ berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverar
 werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer
 personenbezogenen Daten haben (z. B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im
 letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe.
-Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser
-Website
+
+Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website
 Sofern Sie in die Datenverarbeitung eingewilligt haben, verarbeiten wir Ihre personenbezogenen Daten auf
 Grundlage von Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO, sofern besondere Datenkategorien
 nach Art. 9 Abs. 1 DSGVO verarbeitet werden. Im Falle einer ausdrücklichen Einwilligung in die Übertragung
 personenbezogener Daten in Drittstaaten erfolgt die Datenverarbeitung außerdem auf Grundlage von Art.
- 3 / 7
 49 Abs. 1 lit. a DSGVO. Sofern Sie in die Speicherung von Cookies oder in den Zugriff auf Informationen in
 Ihr Endgerät (z. B. via Device-Fingerprinting) eingewilligt haben, erfolgt die Datenverarbeitung zusätzlich
 auf Grundlage von § 25 Abs. 1 TDDDG. Die Einwilligung ist jederzeit widerrufbar. Sind Ihre Daten zur
@@ -73,6 +82,7 @@ zur Erfüllung einer rechtlichen Verpflichtung erforderlich sind auf Grundlage v
 Die Datenverarbeitung kann ferner auf Grundlage unseres berechtigten Interesses nach Art. 6 Abs. 1 lit. f
 DSGVO erfolgen. Über die jeweils im Einzelfall einschlägigen Rechtsgrundlagen wird in den folgenden
 Absätzen dieser Datenschutzerklärung informiert.
+
 Empfänger von personenbezogenen Daten
 Im Rahmen unserer Geschäftstätigkeit arbeiten wir mit verschiedenen externen Stellen zusammen. Dabei
 ist teilweise auch eine Übermittlung von personenbezogenen Daten an diese externen Stellen erforderlich.
@@ -83,12 +93,14 @@ haben oder wenn eine sonstige Rechtsgrundlage die Datenweitergabe erlaubt. Beim 
 Auftragsverarbeitern geben wir personenbezogene Daten unserer Kunden nur auf Grundlage eines gültigen
 Vertrags über Auftragsverarbeitung weiter. Im Falle einer gemeinsamen Verarbeitung wird ein Vertrag über
 gemeinsame Verarbeitung geschlossen.
+
 Widerruf Ihrer Einwilligung zur Datenverarbeitung
 Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine
 bereits erteilte Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten
 Datenverarbeitung bleibt vom Widerruf unberührt.
 Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen
 Direktwerbung (Art. 21 DSGVO)
+
 WENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO
 ERFOLGT, HABEN SIE JEDERZEIT DAS RECHT, AUS GRÜNDEN, DIE SICH AUS IHRER BESONDEREN
 SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN
@@ -107,22 +119,25 @@ EINZULEGEN; DIES GILT AUCH FÜR DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBU
 VERBINDUNG STEHT. WENN SIE WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN
 ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET (WIDERSPRUCH
 NACH ART. 21 ABS. 2 DSGVO).
+
 Beschwerderecht bei der zuständigen Aufsichtsbehörde
 Im Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer
- 4 / 7
 Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthalts, ihres Arbeitsplatzes
 oder des Orts des mutmaßlichen Verstoßes zu. Das Beschwerderecht besteht unbeschadet anderweitiger
 verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.
+
 Recht auf Datenübertragbarkeit
 Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags
 automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format
 aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen
 verlangen, erfolgt dies nur, soweit es technisch machbar ist.
+
 Auskunft, Berichtigung und Löschung
 Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche
 Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den
 Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie
 zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden.
+
 Recht auf Einschränkung der Verarbeitung
 Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
 Hierzu können Sie sich jederzeit an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in
@@ -144,16 +159,19 @@ ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachu
 Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder
 juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder
 eines Mitgliedstaats verarbeitet werden.
+
 SSL- bzw. TLS-Verschlüsselung
 Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum
-Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLSVerschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von
+Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLSVerschlüsselung.
+Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von
 „http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
 Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht
 von Dritten mitgelesen werden.
-3. Datenerfassung auf dieser Website
- 5 / 7
+
+#### 3. Datenerfassung auf dieser Website
 Server-Log-Dateien
-Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-LogDateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:
+Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-
+Dateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:
 Browsertyp und Browserversion
 verwendetes Betriebssystem
 Referrer URL
@@ -164,6 +182,7 @@ Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenomm
 Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat
 ein berechtigtes Interesse an der technisch fehlerfreien Darstellung und der Optimierung seiner Website –
 hierzu müssen die Server-Log-Files erfasst werden.
+
 Anfrage per E-Mail, Telefon oder Telefax
 Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage inklusive aller daraus
 hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens
@@ -181,28 +200,18 @@ insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 Quelle:
 https://www.e-recht24.de
 
-#### II. Hinweise zur Verarbeitung personenbezogener Daten
-
 Bei der Nutzung dieser Website werden nur minimalistische Metadaten als personenbezogenen Daten durch Dritte erhoben. Diese Metadaten enthalten äußerst eingeschränkte persönliche Daten, meist in Form von IP-Adressen.
-
 - [Cloudflare Datensicherheit](https://www.cloudflare.com/de-de/gdpr/introduction/)
-
 ##### 1. Cookies
-
 a) Session cookies
-
 Cookies sind kleine Textdateien, die von Ihrem Browser auf Ihrem Rechner abgelegt werden. Diese richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen.
-
 Diese Website nutzt keine Cookies zum erkennen oder verfolgen des Benutzers dieser Website.
 
 b) Third party cookies
-
 Diese Website benutzt Cookies von Unternehmen, mit dem Zweck, die Verbesserung der Funktionen unserer Website zu verbessern.
-
 Einzelheiten, insbesondere zur Rechtsgrundlage und zum Zweck einer solchen Erhebung und Verarbeitung von Daten durch Dritte mittels Cookies, entnehmen Sie bitte den nachfolgenden Informationen.
 
 c) Deaktivieren von Cookies
-
 Sie können die Verwendung von Cookies ablehnen oder definieren, indem Sie die Einstellungen Ihres Browsers ändern. Ebenso können Sie über den Browser bereits gespeicherte Cookies löschen. Die erforderlichen Schritte und Maßnahmen variieren jedoch je nach dem von Ihnen verwendeten Browser.
 
 ##### 2. Verarbeitung von personenbezogenen Daten durch Dritte
@@ -215,20 +224,3 @@ Die Rechtsgrundlage für die Nutzung der oben beschriebenen Cloudflare-Dienste i
 
 Mehr lesen zu: [Cloudflare Datensicherheit](https://www.cloudflare.com/de-de/gdpr/introduction/")
 
-##### III. Rechte von Nutzern und betroffenen Personen
-
-Im Hinblick auf die oben beschriebene Datenverarbeitung haben Nutzer und Betroffene die folgenden Rechte:
-
-- a) Recht auf Bestätigung, ob sie betreffende Daten verarbeitet werden, auf Auskunft über die verarbeiteten Daten, auf weitere Informationen über die Art der Datenverarbeitung und auf Kopien der Daten (vgl. auch Art. 15 DSGVO);
-
-- b) Recht auf Berichtigung oder Vervollständigung unrichtiger oder unvollständiger Daten (vgl. auch Art. 16 DS-GVO);
-
-- c) Recht auf unverzügliche Löschung der sie betreffenden Daten (vgl. auch Art. 17 DSGVO), hilfsweise bei Erforderlichkeit der Weiterverarbeitung gemäß Art. 17 Abs. 3 GDPR, die Einschränkung der Verarbeitung nach Art. 18 GDPR;
-
-- d) Recht, Kopien der sie betreffenden und/oder von ihnen bereitgestellten Daten zu erhalten und diese an andere Anbieter übermitteln zu lassen (vgl. auch Art. 20 GDPR);
-
-- e) Recht auf Beschwerde bei der Aufsichtsbehörde, wenn sie der Ansicht sind, dass die Verarbeitung der sie betreffenden Daten durch den Verantwortlichen gegen die Datenschutzbestimmungen verstößt (vgl. auch Art. 77 DSGVO).
-
-Darüber hinaus ist der Anbieter verpflichtet, alle Empfänger, denen er Daten offenlegt, über solche Berichtigungen, Löschungen oder Einschränkungen der Verarbeitung derselben gemäß Art. 16, 17 Abs. 1, 18 GDPR ZU INFORMIEREN. Diese Verpflichtung besteht jedoch nicht, wenn die Benachrichtigung unmöglich ist oder einen unverhältnismäßigen Aufwand erfordert. Dennoch hat der Nutzer ein Recht auf Auskunft über diese Empfänger.
-
-Ebenso haben nach Art. 21 DSGVO das Recht, der künftigen Verarbeitung ihrer Daten durch den Anbieter gemäß Art. 6 Abs. 1 lit. f) GDPR. Insbesondere ist ein Widerspruch gegen die Datenverarbeitung zum Zwecke der Direktwerbung zulässig.
