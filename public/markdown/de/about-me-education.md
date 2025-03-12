@@ -1,7 +1,5 @@
 ##### 2013
 
-Test1234
-
 - Abschluss der Ausbildung zur Hebamme und Examen in Halle (Saale)
 
 ##### 2013-2014
@@ -18,13 +16,13 @@ Test1234
 
 ##### 2015-2017
 
-- Heilpraktikerausbildung an der Paracelsus Schule in Erfurt (mit praktischem Schwerpunkt TCM: Akupunktur, Akupunkt-Massage, Phytotherapie, Diagnostik HP Jens-Peter Salzmann)
+- Heilpraktikerausbildung an der Paracelsus Schule in Erfurt (mit praktischem Schwerpunkt TCM: Akupunktur, Akupunkt-Massage, Phytotherapie, Diagnostik bei HP Jens-Peter Salzmann)
 
 ##### 2016
 
-- Yoga-Fortbildung für Hebammen bei Hebamme und HP Anna Blaack (Hatha Yoga, YinYoga)
-Seminar Chinesische Medizin Kompakt bei HP Jens-Peter Salzmann
-Seminar Japanische Akupunktur, Dr. Sakae Yoneyama in Jena
+- Yoga-Fortbildung für Hebammen bei Hebamme, HP Anna Blaack (Hatha Yoga, YinYoga)
+- Seminar Chinesische Medizin Kompakt bei HP Jens-Peter Salzmann
+- Seminar Japanische Akupunktur, Dr. Sakae Yoneyama in Jena
 
 ##### 2017
 
@@ -38,7 +36,7 @@ Seminar Japanische Akupunktur, Dr. Sakae Yoneyama in Jena
 
 ##### 2019
 
-- Fortbildung Akupunktur für Hebammen, Anna Blaack
+- Fortbildung Akupunktur für Hebammen, Hebamme, HP Anna Blaack
 
 ##### 2021
 
@@ -57,11 +55,11 @@ Seminar Japanische Akupunktur, Dr. Sakae Yoneyama in Jena
 
 ##### 2024
 
-- Fortbildung „Die Wichtigkeit der guten Nährstoffversorgung für die Gesundheit der - ganzen Familie unter Betrachtung von präventiven und kurativen Aspekten“, Martin - Auerswald
+- Fortbildung „Die Wichtigkeit der guten Nährstoffversorgung für die Gesundheit der ganzen Familie unter Betrachtung von präventiven und kurativen Aspekten“, Martin Auerswald
 - Fortbildung Wirbelsäulentherapie nach Dorn und Breuß-Massage, Paracelsus Schule Erfurt
 - Fortbildung 5-Elemente-Ernährung, promedico
 - Fortbildung Akupunktur für Hebammen, Anna Blaack
-- Grundkurs interne und externe Palpation des Beckenbodens und weiterführende - Behandlungstechniken, pelvis-floor, Sabine Meissner
+- Grundkurs interne und externe Palpation des Beckenbodens und weiterführende Behandlungstechniken, pelvis-floor, Sabine Meissner
 - Notfalltraining für Hebammen, Nico Raab
 - Fortbildung Akupressur für Praxis und Familie, Isolde Richter
 - Schulung zum Hormoncoach, hormonie, Dr. med. univ. Rieger
