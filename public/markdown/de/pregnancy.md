@@ -19,5 +19,5 @@ Gerne arbeite ich mit verschiedenen Körperübungen (YinYoga, Meridian-Dehn-Übu
 
 #### Kosten
 
-Die reguläre Hebammenbetreuung wird von den gesetzlichen Krankenkassen übernommen und auch wenn du privat versichert bist, werden die Kosten in der Regel von deiner Krankenkasse getragen.
+Die reguläre Hebammenbetreuung wird von den gesetzlichen Krankenkassen übernommen. Wenn du privat versichert bist, werden die Kosten ebenfalls in der Regel von deiner Krankenkasse getragen. Kläre die Details dazu bitte im Vorfeld mit deiner Krankenkasse.
 Über Kosten von Leistungen, die nicht von den Krankenkassen gezahlt werden, kläre ich im Vorfeld auf. Dazu zählt z.B. die Akupunktur oder das Taping.
