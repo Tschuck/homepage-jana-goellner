@@ -27,8 +27,8 @@ Verwendete Bilder sind kostenlos kommerziell verwendbar im Rahmen der [Unsplash 
  - [Bild1](https://unsplash.com/de/fotos/eine-person-die-die-fusse-eines-babys-in-den-handen-halt-K49qi6a9BkM)
 
 - Schwangerschaft
- - [Bild2](https://unsplash.com/de/fotos/frau-tragt-tagsuber-ein-weisses-kurzarmeliges-kleid-aaufr_hQ9rM)
- - [Bild3](https://unsplash.com/de/fotos/nahaufnahme-des-babys-auf-blauer-decke-WCbCRXk7nmU)
+  - [Bild2](https://unsplash.com/de/fotos/frau-tragt-tagsuber-ein-weisses-kurzarmeliges-kleid-aaufr_hQ9rM)
+  - [Bild3](https://unsplash.com/de/fotos/nahaufnahme-des-babys-auf-blauer-decke-WCbCRXk7nmU)
    
 - Nachsorge
   - [Bild4](https://unsplash.com/de/fotos/ein-baby-liegt-auf-einem-bett-mit-weissen-laken-7mPR3JZlk74)
@@ -45,8 +45,8 @@ Verwendete Bilder sind kostenlos kommerziell verwendbar im Rahmen der [Unsplash 
   
 - Über mich
   - Jana Goellner low res - selbstgemacht
-  - [Bild 10]
-  - [Bild11]
+  - [Bild 10](https://unsplash.com/de/fotos/selektiver-fokus-weisser-bluten-i9Q9bc-WgfE)
+  - [Bild11](Praxisbild- noch in Arbeit)
 
 ####Bilder alt
 
