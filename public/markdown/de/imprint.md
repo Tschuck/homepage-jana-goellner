@@ -41,13 +41,12 @@ Verwendete Bilder sind kostenlos kommerziell verwendbar im Rahmen der [Unsplash 
 
 - TCM
    - [Bild8](https://unsplash.com/de/fotos/weisses-und-braunes-rundes-dekor-CFqUdmzzti0)
-   - [Bild9]
+   - [Bild9](https://unsplash.com/de/fotos/person-mit-silbernem-und-weissem-stift-QgcdtM9rA5s)
   
 - Über mich
-  - Jana Goellner - selbstgemacht
   - Jana Goellner low res - selbstgemacht
-  - [Two People on Gray Soil](https://unsplash.com/photos/two-person-step-on-gray-soil-7edWO30e32k)
-  - [Yannic Laderach Unsplash](https://unsplash.com/photos/woman-standing-on-rock-facing-forest-Dqx4XWuXu7w)
+  - [Bild 10]
+  - [Bild11]
 
 ####Bilder alt
 
