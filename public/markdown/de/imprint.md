@@ -1,15 +1,12 @@
 ##### Herausgeber
 
 Jana Göllner
-
-##### Adresse
-
-- Seebacher Straße 62a
-- 99848 Wutha-Farnroda
+Seebacher Straße 62a
+99848 Wutha-Farnroda
 
 ##### Telefonnummer
 
-- 0160 95332264
+0160 95332264
 
 ##### E-Mail
 
@@ -21,7 +18,7 @@ Jana Göllner
 
 ####Bilder 
 
-Verwendete Bilder sind kostenlos kommerziell verwendbar im Rahmen der [Unsplash Lizenz](https://unsplash.com/de/lizenz). Fuer bessere Optimierung der Homepage wurden Kopien der Bilder auf dem System des Website-Betreibers abelegt.
+Verwendete Bilder sind kostenlos kommerziell verwendbar im Rahmen der [Unsplash Lizenz](https://unsplash.com/de/lizenz). Für bessere Optimierung der Homepage wurden Kopien der Bilder auf dem System des Website-Betreibers abelegt.
 
 -Willkommen
  - [Bild1](https://unsplash.com/de/fotos/eine-person-die-die-fusse-eines-babys-in-den-handen-halt-K49qi6a9BkM)
