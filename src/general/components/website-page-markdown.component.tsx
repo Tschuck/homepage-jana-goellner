@@ -1,3 +1,4 @@
+import { DefinitionImageList } from "@/general/components/definition-image-list.component";
 import {
   TextDisplayType,
   WebsitePage,
@@ -28,6 +29,7 @@ export function WebsitePageMarkdown({ page }: WebsitePageMarkdownProps) {
       ) : (
         <div className="markdown-wrapper">
           <Markdown skipHtml={false}>{page.config.markdown}</Markdown>
+          {page.slug === "imprint" && <DefinitionImageList />}
         </div>
       )}
     </>

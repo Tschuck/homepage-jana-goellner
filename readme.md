@@ -36,3 +36,15 @@ This project was bootstrapped with [Vite](https://vitejs.dev/).
    ```bash
    pnpm run build
    ```
+
+## How to adjust
+
+This page is powered by a specific json definition generated from this [Website Editor](https://github.com/Tschuck/website-editor).
+
+Start the project and import the json found here [./src/definition/Jana Goellner.json](https://github.com/Tschuck/homepage-jana-goellner/blob/feature/main/src/definition/Jana%20Goellner.json).
+
+After all the changes are done, export the json and replace the json file mentioned above. When images have changed, execute the following script to download all new images correctly:
+
+```
+pnpm run download-definition-images
+```
