@@ -11,18 +11,5 @@ export default defineConfig({
   },
   build: {
     minify: "terser",
-    rollupOptions: {
-      output: {
-        sourcemapExcludeSources: true,
-        manualChunks(id: string) {
-          if (id.includes("jsoneditor")) {
-            return "jsoneditor";
-          }
-          if (id.includes("node_modules") || id.includes("commonjsHelper")) {
-            return "vendor";
-          }
-        },
-      },
-    },
   },
 });
