@@ -54,6 +54,7 @@
   },
   "name": "homepage-jana-goellner",
   "scripts": {
+    "deploy:prepare": "rm -rf ./.deploy && mkdir ./.deploy && cp -r ./dist ./.deploy/app && rsync -r --exclude 'node_modules' ./server/* ./.deploy",
     "download-definition-images": "tsx ./src/download-definition-images.ts",
     "build": "tsc && vite build",
     "build:staging": "tsc && vite build --mode staging",
