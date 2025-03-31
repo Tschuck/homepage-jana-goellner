@@ -8,7 +8,7 @@ import { createRef } from "react";
 import {
   RouteObject,
   RouterProvider,
-  createBrowserRouter,
+  createHashRouter,
 } from "react-router-dom";
 
 export const pageRoutes = websiteDefinition.pages.map((page, index) => {
@@ -61,7 +61,7 @@ export const routes: RouteObject[] = [
 export function Router() {
   return (
     <>
-      <RouterProvider router={createBrowserRouter(routes)} />
+      <RouterProvider router={createHashRouter(routes)} />
     </>
   );
 }
