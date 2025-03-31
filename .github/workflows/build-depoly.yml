@@ -27,5 +27,5 @@ jobs:
           username: ${{ secrets.SCP_USERNAME }}
           key: ${{ secrets.SCP_KEY }}
           port: ${{ secrets.SCP_PORT }}
-          source: "./deploy/**/*"
+          source: "deploy/**/*"
           target: /home/bitnami/projects/hebamme-jana-goellner
