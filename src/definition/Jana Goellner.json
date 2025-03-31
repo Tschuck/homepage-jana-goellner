@@ -17,7 +17,7 @@
           "downloadLink": "",
           "referenceLink": ""
         },
-        "markdown": "# Mit Herz und Hand für Mutter und Kind\n\n### Einfühlsame und kompetente Begleitung rund um Schwangerschaft und Wochenbett\n\nHerzlich Willkommen auf meiner Webseite! Ich freue mich, dass du den Weg zu mir gefunden hast. Als erfahrene Hebamme biete ich dir eine umfassende und persönliche Betreuung während dieser besonderen Zeit im Leben. Mein Ziel ist es, dir mit Rat und Tat zur Seite zu stehen und dich auf deinem Weg zu einem harmonischen und glücklichen Familienleben zu unterstützen.\n\n### Praxis\n\nIhr findet mich in der Röbertsraße 2f in 99848 Wutha-Farnroda. \n"
+        "markdown": "## Mit Herz und Hand für Mutter und Kind\n\n#### Einfühlsame und kompetente Begleitung rund um Schwangerschaft und Wochenbett\n\nHerzlich Willkommen auf meiner Webseite! Ich freue mich, dass du den Weg zu mir gefunden hast. Als erfahrene Hebamme biete ich dir eine umfassende und persönliche Betreuung während dieser besonderen Zeit im Leben. Mein Ziel ist es, dir mit Rat und Tat zur Seite zu stehen und dich auf deinem Weg zu einem harmonischen und glücklichen Familienleben zu unterstützen.\n\n#### Praxis\n\nIhr findet mich in der Röbertsraße 2f in 99848 Wutha-Farnroda. \n\n**Telefonnummer**: 0160 95332264\n\n**E-Mail**: jana-goellner[at]web.de"
       },
       "id": "0195850d-01a7-7400-805a-5d376c6e77c9",
       "layout": "big-image-right",
@@ -166,8 +166,8 @@
             "id": "0184ca71-1468-4c26-a107-8e9fc4a7ca49",
             "layout": "image-top",
             "slug": "2e834f81-8027-4c3e-9c47-82168797df47",
-            "summary": "Die Vorteile von Akupunktur während der Schwangerschaft: Was Sie wissen sollten",
-            "title": "Test Blog 1",
+            "summary": "Bald gibt es hier tolle Infos.",
+            "title": "Blogaritkel",
             "config": {
               "buttonLink": "",
               "cards": [],
@@ -183,7 +183,7 @@
                 "downloadLink": "",
                 "referenceLink": ""
               },
-              "markdown": "### Lorem ipsum\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi facilisis gravida diam, non vehicula dolor vehicula nec. Integer ut urna eget ex mollis pellentesque. Curabitur orci ligula, accumsan sit amet lacus venenatis, feugiat porta nulla. In lacinia dui quis risus elementum, at pellentesque diam condimentum. Nullam feugiat nibh nec porttitor sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet sed eros vitae scelerisque. Nulla nec condimentum lorem, eu tempor sapien. Nullam lacinia faucibus leo. Suspendisse eleifend sit amet nisl vel aliquam. Donec eu magna sed augue efficitur faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sagittis justo. Nam nec egestas augue. Nulla dignissim ut felis et sagittis.\n\n### Impressum\n\n- [Person Using Pencil Photo](https://unsplash.com/photos/person-using-pencil-oXV3bzR7jxI)\n"
+              "markdown": "Bald gibt es hier tolle Infos."
             },
             "textDisplay": "one"
           }

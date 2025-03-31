@@ -1,5 +1,5 @@
 import { getImageRoute } from "@/definition/website-definition";
-import { DoorImage } from "@/general/components/images/door-image.component";
+import { CircleImage } from "@/general/components/images/circle-image.component";
 import { Page } from "@/general/components/page.component";
 import { WebsitePageMarkdown } from "@/general/components/website-page-markdown.component";
 import { ImageBorderThickness } from "@/general/interfaces/image-component.interface";
@@ -14,7 +14,7 @@ export function ThreeImagesTopLayout({ page }: ThreeImagesTopLayoutProps) {
     <Page>
       <div className="grid grid-cols-10 gap-2 md:gap-8">
         <div className="flex flex-col justify-end col-span-3">
-          <DoorImage
+          <CircleImage
             image={getImageRoute(page, 1)}
             border={ImageBorderThickness.xs}
             borderColor="border-primary"
@@ -26,7 +26,7 @@ export function ThreeImagesTopLayout({ page }: ThreeImagesTopLayoutProps) {
           </p>
         </div>
         <div className="col-span-4">
-          <DoorImage
+          <CircleImage
             image={getImageRoute(page, 2)}
             border={ImageBorderThickness.xs}
             className="w-full"
@@ -38,7 +38,7 @@ export function ThreeImagesTopLayout({ page }: ThreeImagesTopLayoutProps) {
         </div>
 
         <div className="flex flex-col justify-end col-span-3">
-          <DoorImage
+          <CircleImage
             image={getImageRoute(page, 3)}
             border={ImageBorderThickness.xs}
             borderColor="border-primary"

@@ -15,7 +15,6 @@ export function ImageTopLayout({ page }: ImageTopLayoutProps) {
       <CircleImage
         image={getImageRoute(page, 1)}
         border={ImageBorderThickness.xs}
-        borderColor="border-0"
         className="mx-auto xl:w-[400px] 2xl:w-[500px] md:relative md:w-[300px] lg:w-[350px] max-w-[300px]"
       />
       <div className="flex justify-center mt-8">

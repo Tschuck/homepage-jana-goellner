@@ -43,14 +43,6 @@ html, body, #root {
   font-family: "YesevaOne";
 }
 
-/* .markdown-wrapper h1,
-.markdown-wrapper h2,
-.markdown-wrapper h3,
-.markdown-wrapper h4,
-.markdown-wrapper h5 {
-  font-family: "KaushanScripts"
-} */
-
 .markdown-wrapper h1 {
   font-size: 4rem;
   margin-bottom: 1rem;
