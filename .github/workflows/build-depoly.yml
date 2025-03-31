@@ -19,7 +19,7 @@ jobs:
       - run: pnpm install
       - run: pnpm run build
       - run: pnpm run deploy:prepare
-      - run: ls -la ./deploy
+      - run: ls -la ./.deploy
 
       - name: copy file via ssh key
         uses: appleboy/scp-action@v0.1.7
@@ -28,5 +28,5 @@ jobs:
           username: ${{ secrets.SCP_USERNAME }}
           key: ${{ secrets.SCP_KEY }}
           port: ${{ secrets.SCP_PORT }}
-          source: "deploy/*"
+          source: ".deploy/**/*"
           target: /home/bitnami/projects/hebamme-jana-goellner
