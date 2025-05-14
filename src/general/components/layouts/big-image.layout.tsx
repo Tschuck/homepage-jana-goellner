@@ -16,12 +16,12 @@ export function BigImageLayout({ page }: BigImageLayoutProps) {
         <WebsitePageMarkdown page={page} />
       </div>
 
-      <div className="relative flex items-end justify-center flex-grow col-span-5 mt-8 lg:justify-end lg:col-span-3 lg:mt-0">
+      <div className="relative flex items-end justify-center flex-grow col-span-5 mt-8 xl:items-center lg:justify-end lg:col-span-3 lg:mt-0">
         {/* <FancyDots className="hidden lg:flex absolute top-[100px] left-[25%]" /> */}
         <CircleImage
           image={getImageRoute(page, 1)}
           border={ImageBorderThickness.thick}
-          className="lg:w-full"
+          className="w-full xl:w-4/5 2xl:3/5"
         />
       </div>
     </Page>
