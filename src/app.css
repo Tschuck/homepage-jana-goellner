@@ -1,10 +1,10 @@
-html {
+/* html {
   overflow: hidden;
 }
 
 html, body, #root {
   height: 100vh;
-}
+} */
 
 @font-face {
   font-family: archivo;font-style: normal;font-weight:500;
